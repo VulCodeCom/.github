@@ -111,21 +111,21 @@ A transparent, 7-step process from first call to production support:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>6,043,081</h3>lines of code</td>
-    <td align="center" width="25%"><h3>23,966</h3>commits</td>
+    <td align="center" width="25%"><h3>23,967</h3>commits</td>
     <td align="center" width="25%"><h3>200+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>420,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>55</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,656</h3>working days</td>
+    <td align="center" width="25%"><h3>1,657</h3>working days</td>
   </tr>
 </table>
 
 ```diff
 + 6,043,081 lines added
-- 784,283 lines removed
-! 5,258,798 net lines
+- 784,284 lines removed
+! 5,258,797 net lines
 ```
 <!-- /stats:summary -->
 
@@ -142,7 +142,7 @@ A transparent, 7-step process from first call to production support:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Language</th><th align="right">Lines of code</th><th align="right">Commits</th><th align="right">Share</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2,300,958</td><td align="right">6,281</td><td align="right">46.2% <sub>██████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2,300,958</td><td align="right">6,282</td><td align="right">46.2% <sub>██████████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">995,825</td><td align="right">2,536</td><td align="right">20.0% <sub>████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">285,889</td><td align="right">915</td><td align="right">5.7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">206,250</td><td align="right">796</td><td align="right">4.1% <sub>█</sub></td></tr>
@@ -308,14 +308,14 @@ Docker <sub>61</sub> · React <sub>30</sub> · Express <sub>27</sub> · Vite <su
 ## 🌍 Open source
 
 <!-- stats:opensource -->
-Code that made it into projects we use every day. **99** merged pull requests in **55** repositories with **420,000+** stars combined.
+Code that made it into projects we use every day. **101** merged pull requests in **55** repositories with **420,000+** stars combined.
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 91.4k | Rust | <code>+123</code> <code>-10</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26.3k | C# | <code>+4624</code> <code>-13</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26.4k | C# | <code>+4624</code> <code>-13</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22.3k | PHP | <code>+135</code> <code>-4</code> |
-| [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22.2k | JavaScript | <code>+83</code> <code>-11</code> |
+| [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22.2k | JavaScript | <code>+314</code> <code>-63</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21.4k | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21.4k | Rust | <code>+217</code> <code>-36</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16.6k | PHP | <code>+87</code> <code>-0</code> |
@@ -327,7 +327,7 @@ Code that made it into projects we use every day. **99** merged pull requests in
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11.1k | PHP | <code>+72</code> <code>-2</code> |
 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9.9k | PHP | <code>+127</code> <code>-7</code> |
 | [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) | ⭐ 9.8k | C# | <code>+14</code> <code>-1</code> |
-| [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8k | C# | <code>+12</code> <code>-0</code> |
+| [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8.1k | C# | <code>+12</code> <code>-0</code> |
 | [concourse/concourse](https://github.com/concourse/concourse) | ⭐ 7.9k | Go | <code>+153</code> <code>-23</code> |
 | [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) | ⭐ 7.8k | TypeScript | <code>+65</code> <code>-2</code> |
 | [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6.5k | C# | <code>+19</code> <code>-0</code> |
@@ -341,7 +341,7 @@ Code that made it into projects we use every day. **99** merged pull requests in
 | [thephpleague/csv](https://github.com/thephpleague/csv) | ⭐ 3.5k | PHP | <code>+22</code> <code>-9</code> |
 | [composer/satis](https://github.com/composer/satis) | ⭐ 3.3k | PHP | <code>+105</code> <code>-12</code> |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | ⭐ 3k | Go | <code>+66</code> <code>-23</code> |
-| [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3k | Go | <code>+467</code> <code>-53</code> |
+| [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3k | Go | <code>+693</code> <code>-62</code> |
 | [thephpleague/commonmark](https://github.com/thephpleague/commonmark) | ⭐ 3k | PHP | <code>+17</code> <code>-0</code> |
 | [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2.4k | PHP | <code>+135</code> <code>-11</code> |
 | [pelican/panel](https://github.com/pelican/panel) | ⭐ 2.4k | PHP | <code>+64</code> <code>-3</code> |
