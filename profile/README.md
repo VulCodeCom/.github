@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **200+ projektach**. Dołożyliśmy też swoją cegiełkę do **58 repozytoriów open source**, które łącznie mają **480 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **200+ projektach**. Dołożyliśmy też swoją cegiełkę do **59 repozytoriów open source**, które łącznie mają **490 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -110,22 +110,22 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:summary -->
 <table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>6 050 953</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>23 977</h3>commitów</td>
+    <td align="center" colspan="2" width="50%"><h3>6 050 968</h3>linii kodu</td>
+    <td align="center" width="25%"><h3>23 979</h3>commitów</td>
     <td align="center" width="25%"><h3>200+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>480 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>58</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>490 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>59</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 658</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 659</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 6 050 953 linii dodanych
-- 784 307 linii usuniętych
-! 5 266 646 linii netto
++ 6 050 968 linii dodanych
+- 784 337 linii usuniętych
+! 5 266 631 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -138,12 +138,12 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Język</th><th align="right">Linie kodu</th><th align="right">Commity</th><th align="right">Udział</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2 306 272</td><td align="right">6 288</td><td align="right">46,2% <sub>██████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2 306 285</td><td align="right">6 289</td><td align="right">46,2% <sub>██████████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">995 825</td><td align="right">2 536</td><td align="right">20,0% <sub>████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">285 889</td><td align="right">915</td><td align="right">5,7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">206 250</td><td align="right">796</td><td align="right">4,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">162 872</td><td align="right">752</td><td align="right">3,3% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">140 239</td><td align="right">504</td><td align="right">2,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">140 240</td><td align="right">505</td><td align="right">2,8% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">130 914</td><td align="right">149</td><td align="right">2,6% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">116 812</td><td align="right">437</td><td align="right">2,3% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">91 810</td><td align="right">438</td><td align="right">1,8% <sub>█</sub></td></tr>
@@ -302,7 +302,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ## 🌍 Open source
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 480 000+ ⭐ w 58 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 490 000+ ⭐ w 59 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
@@ -340,6 +340,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | ⭐ 3 tys. | Go | <code>+66</code> <code>-23</code> |
 | [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3 tys. | Go | <code>+751</code> <code>-63</code> |
 | [thephpleague/commonmark](https://github.com/thephpleague/commonmark) | ⭐ 3 tys. | PHP | <code>+17</code> <code>-0</code> |
+| [api-platform/core](https://github.com/api-platform/core) | ⭐ 2,6 tys. | PHP | <code>+6</code> <code>-6</code> |
 | [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2,4 tys. | PHP | <code>+135</code> <code>-11</code> |
 | [pelican/panel](https://github.com/pelican/panel) | ⭐ 2,4 tys. | PHP | <code>+64</code> <code>-3</code> |
 | [gookit/goutil](https://github.com/gookit/goutil) | ⭐ 2,4 tys. | Go | <code>+12</code> <code>-0</code> |
@@ -347,12 +348,12 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [gocarina/gocsv](https://github.com/gocarina/gocsv) | ⭐ 2,2 tys. | Go | <code>+89</code> <code>-2</code> |
 | [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) | ⭐ 1,9 tys. | PHP | <code>+3</code> <code>-2</code> |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | ⭐ 1,6 tys. | Go | <code>+99</code> <code>-3</code> |
-| [gookit/color](https://github.com/gookit/color) | ⭐ 1,6 tys. | Go | <code>+12</code> <code>-1</code> |
 | [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1,6 tys. | Python | <code>+66</code> <code>-5</code> |
+| [gookit/color](https://github.com/gookit/color) | ⭐ 1,6 tys. | Go | <code>+12</code> <code>-1</code> |
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1,5 tys. | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1,4 tys. | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1,4 tys. | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 930 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 929 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 504 | Rust | <code>+24</code> <code>-2</code> |
