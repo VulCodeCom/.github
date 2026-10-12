@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **200+ projektach**. Dołożyliśmy też swoją cegiełkę do **61 repozytoriów open source**, które łącznie mają **490 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **200+ projektach**. Dołożyliśmy też swoją cegiełkę do **64 repozytoriów open source**, które łącznie mają **540 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -115,8 +115,8 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
     <td align="center" width="25%"><h3>200+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>490 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>61</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>540 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>64</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
     <td align="center" width="25%"><h3>1 659</h3>dni pracy</td>
   </tr>
@@ -302,18 +302,20 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ## 🌍 Open source
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 490 000+ ⭐ w 61 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 540 000+ ⭐ w 64 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 91,6 tys. | Rust | <code>+123</code> <code>-10</code> |
-| [composer/composer](https://github.com/composer/composer) | ⭐ 29,5 tys. | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,5 tys. | C# | <code>+4624</code> <code>-13</code> |
+| [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,6 tys. | C# | <code>+4648</code> <code>-23</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24,3 tys. | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22,3 tys. | PHP | <code>+135</code> <code>-4</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22,2 tys. | JavaScript | <code>+314</code> <code>-63</code> |
+| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 21,9 tys. | Go | <code>+43</code> <code>-17</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21,4 tys. | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21,4 tys. | Rust | <code>+217</code> <code>-36</code> |
+| [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17,5 tys. | C# | <code>+43</code> <code>-5</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16,6 tys. | PHP | <code>+87</code> <code>-0</code> |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | ⭐ 15 tys. | Go | <code>+183</code> <code>-18</code> |
 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | ⭐ 14,2 tys. | C# | <code>+19</code> <code>-1</code> |
@@ -321,17 +323,18 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [filp/whoops](https://github.com/filp/whoops) | ⭐ 13,2 tys. | PHP | <code>+115</code> <code>-3</code> |
 | [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+498</code> <code>-89</code> |
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
-| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9,9 tys. | PHP | <code>+151</code> <code>-8</code> |
+| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9,9 tys. | PHP | <code>+293</code> <code>-11</code> |
 | [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) | ⭐ 9,8 tys. | C# | <code>+14</code> <code>-1</code> |
 | [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8 tys. | C# | <code>+12</code> <code>-0</code> |
 | [concourse/concourse](https://github.com/concourse/concourse) | ⭐ 7,9 tys. | Go | <code>+153</code> <code>-23</code> |
 | [predis/predis](https://github.com/predis/predis) | ⭐ 7,8 tys. | PHP | <code>+228</code> <code>-10</code> |
 | [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) | ⭐ 7,8 tys. | TypeScript | <code>+65</code> <code>-2</code> |
-| [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+19</code> <code>-0</code> |
+| [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+94</code> <code>-4</code> |
 | [maildev/maildev](https://github.com/maildev/maildev) | ⭐ 6,1 tys. | TypeScript | <code>+69</code> <code>-13</code> |
 | [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,5 tys. | Rust | <code>+48</code> <code>-2</code> |
 | [xoofx/markdig](https://github.com/xoofx/markdig) | ⭐ 5,3 tys. | C# | <code>+223</code> <code>-7</code> |
 | [dromara/carbon](https://github.com/dromara/carbon) | ⭐ 5,2 tys. | Go | <code>+41</code> <code>-4</code> |
+| [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) | ⭐ 4,8 tys. | Go | <code>+16</code> <code>-0</code> |
 | [knadh/koanf](https://github.com/knadh/koanf) | ⭐ 4,2 tys. | Go | <code>+28</code> <code>-7</code> |
 | [spencermountain/spacetime](https://github.com/spencermountain/spacetime) | ⭐ 4,1 tys. | JavaScript | <code>+15</code> <code>-40</code> |
 | [itchyny/gojq](https://github.com/itchyny/gojq) | ⭐ 3,8 tys. | Go | <code>+42</code> <code>-5</code> |
@@ -343,7 +346,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [thephpleague/commonmark](https://github.com/thephpleague/commonmark) | ⭐ 3 tys. | PHP | <code>+17</code> <code>-0</code> |
 | [mitsuhiko/insta](https://github.com/mitsuhiko/insta) | ⭐ 3 tys. | Rust | <code>+8</code> <code>-2</code> |
 | [api-platform/core](https://github.com/api-platform/core) | ⭐ 2,6 tys. | PHP | <code>+6</code> <code>-6</code> |
-| [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2,4 tys. | PHP | <code>+137</code> <code>-11</code> |
+| [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2,5 tys. | PHP | <code>+137</code> <code>-11</code> |
 | [pelican/panel](https://github.com/pelican/panel) | ⭐ 2,4 tys. | PHP | <code>+338</code> <code>-32</code> |
 | [gookit/goutil](https://github.com/gookit/goutil) | ⭐ 2,4 tys. | Go | <code>+12</code> <code>-0</code> |
 | [dedoc/scramble](https://github.com/dedoc/scramble) | ⭐ 2,2 tys. | PHP | <code>+23</code> <code>-0</code> |
