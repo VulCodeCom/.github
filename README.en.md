@@ -110,22 +110,22 @@ A transparent, 7-step process from first call to production support:
 <!-- stats:summary -->
 <table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>6,495,301</h3>lines of code</td>
-    <td align="center" width="25%"><h3>24,507</h3>commits</td>
+    <td align="center" colspan="2" width="50%"><h3>6,695,759</h3>lines of code</td>
+    <td align="center" width="25%"><h3>24,956</h3>commits</td>
     <td align="center" width="25%"><h3>200+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>610,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>69</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,665</h3>working days</td>
+    <td align="center" width="25%"><h3>1,667</h3>working days</td>
   </tr>
 </table>
 
 ```diff
-+ 6,495,301 lines added
-- 961,187 lines removed
-! 5,534,114 net lines
++ 6,695,759 lines added
+- 983,663 lines removed
+! 5,712,096 net lines
 ```
 <!-- /stats:summary -->
 
@@ -142,26 +142,26 @@ A transparent, 7-step process from first call to production support:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Language</th><th align="right">Lines of code</th><th align="right">Commits</th><th align="right">Share</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2,730,373</td><td align="right">6,738</td><td align="right">50.4% <sub>███████████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">995,825</td><td align="right">2,536</td><td align="right">18.4% <sub>████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">285,889</td><td align="right">915</td><td align="right">5.3% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">206,250</td><td align="right">796</td><td align="right">3.8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">162,872</td><td align="right">752</td><td align="right">3.0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">143,081</td><td align="right">541</td><td align="right">2.6% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">130,914</td><td align="right">149</td><td align="right">2.4% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">116,812</td><td align="right">437</td><td align="right">2.2% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">91,810</td><td align="right">438</td><td align="right">1.7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">85,560</td><td align="right">328</td><td align="right">1.6% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80,563</td><td align="right">150</td><td align="right">1.5% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">65,916</td><td align="right">545</td><td align="right">1.2% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">57,275</td><td align="right">358</td><td align="right">1.1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2,910,995</td><td align="right">7,128</td><td align="right">52.0% <sub>████████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">995,825</td><td align="right">2,536</td><td align="right">17.8% <sub>████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">285,889</td><td align="right">915</td><td align="right">5.1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">206,250</td><td align="right">796</td><td align="right">3.7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">162,872</td><td align="right">752</td><td align="right">2.9% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">143,222</td><td align="right">549</td><td align="right">2.6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">130,914</td><td align="right">149</td><td align="right">2.3% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">116,812</td><td align="right">437</td><td align="right">2.1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">91,810</td><td align="right">438</td><td align="right">1.6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">85,560</td><td align="right">328</td><td align="right">1.5% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80,563</td><td align="right">150</td><td align="right">1.4% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">66,036</td><td align="right">552</td><td align="right">1.2% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">57,275</td><td align="right">358</td><td align="right">1.0% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=c" width="18" alt="C"></td><td><b>C</b></td><td align="right">49,346</td><td align="right">355</td><td align="right">0.9% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=zig" width="18" alt="Zig"></td><td><b>Zig</b></td><td align="right">44,583</td><td align="right">284</td><td align="right">0.8% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">38,812</td><td align="right">594</td><td align="right">0.7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">37,655</td><td align="right">263</td><td align="right">0.7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=lua" width="18" alt="Lua"></td><td><b>Lua</b></td><td align="right">32,053</td><td align="right">206</td><td align="right">0.6% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">29,635</td><td align="right">266</td><td align="right">0.5% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=java" width="18" alt="Java"></td><td><b>Java</b></td><td align="right">13,788</td><td align="right">75</td><td align="right">0.3% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=java" width="18" alt="Java"></td><td><b>Java</b></td><td align="right">13,788</td><td align="right">75</td><td align="right">0.2% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=dart" width="18" alt="Dart"></td><td><b>Dart</b></td><td align="right">6,013</td><td align="right">40</td><td align="right">0.1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=solidity" width="18" alt="Solidity"></td><td><b>Solidity</b></td><td align="right">4,688</td><td align="right">33</td><td align="right">0.1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=haskell" width="18" alt="Haskell"></td><td><b>Haskell</b></td><td align="right">3,609</td><td align="right">28</td><td align="right">0.1% <sub>█</sub></td></tr>
@@ -308,19 +308,19 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ## 🌍 Open source
 
 <!-- stats:opensource -->
-Code that made it into projects we use every day. **135** merged pull requests in **69** repositories with **610,000+** stars combined.
+Code that made it into projects we use every day. **138** merged pull requests in **69** repositories with **610,000+** stars combined.
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 91.8k | Rust | <code>+123</code> <code>-10</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33.3k | C++ | <code>+3</code> <code>-1</code> |
-| [composer/composer](https://github.com/composer/composer) | ⭐ 29.5k | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26.7k | C# | <code>+4648</code> <code>-23</code> |
+| [composer/composer](https://github.com/composer/composer) | ⭐ 29.6k | PHP | <code>+10</code> <code>-4</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26.7k | C# | <code>+4724</code> <code>-29</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24.3k | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22.3k | PHP | <code>+135</code> <code>-4</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22.2k | JavaScript | <code>+314</code> <code>-63</code> |
 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22k | Rust | <code>+134</code> <code>-1</code> |
-| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 21.9k | Go | <code>+43</code> <code>-17</code> |
+| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22k | Go | <code>+43</code> <code>-17</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21.4k | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21.4k | Rust | <code>+217</code> <code>-36</code> |
 | [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17.6k | C# | <code>+43</code> <code>-5</code> |
@@ -350,8 +350,8 @@ Code that made it into projects we use every day. **135** merged pull requests i
 | [Suor/funcy](https://github.com/Suor/funcy) | ⭐ 3.5k | Python | <code>+18</code> <code>-2</code> |
 | [thephpleague/csv](https://github.com/thephpleague/csv) | ⭐ 3.5k | PHP | <code>+22</code> <code>-9</code> |
 | [composer/satis](https://github.com/composer/satis) | ⭐ 3.3k | PHP | <code>+105</code> <code>-12</code> |
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | ⭐ 3k | Go | <code>+66</code> <code>-23</code> |
 | [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3k | Go | <code>+1004</code> <code>-85</code> |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | ⭐ 3k | Go | <code>+66</code> <code>-23</code> |
 | [thephpleague/commonmark](https://github.com/thephpleague/commonmark) | ⭐ 3k | PHP | <code>+17</code> <code>-0</code> |
 | [mitsuhiko/insta](https://github.com/mitsuhiko/insta) | ⭐ 3k | Rust | <code>+8</code> <code>-2</code> |
 | [BurntSushi/jiff](https://github.com/BurntSushi/jiff) | ⭐ 3k | Rust | <code>+37</code> <code>-5</code> |
@@ -377,7 +377,7 @@ Code that made it into projects we use every day. **135** merged pull requests i
 | [brick/date-time](https://github.com/brick/date-time) | ⭐ 361 | PHP | <code>+67</code> <code>-36</code> |
 | [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 338 | Python | <code>+124</code> <code>-1</code> |
 | [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
-| [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 299 | Python | <code>+5</code> <code>-1</code> |
+| [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 298 | Python | <code>+5</code> <code>-1</code> |
 | [QEDK/configparser-rs](https://github.com/QEDK/configparser-rs) | ⭐ 88 | Rust | <code>+22</code> <code>-1</code> |
 | [thephpleague/uri-src](https://github.com/thephpleague/uri-src) | ⭐ 51 | PHP | <code>+18</code> <code>-2</code> |
 | [spiral/testing](https://github.com/spiral/testing) | ⭐ 7 | PHP | <code>+255</code> <code>-6</code> |
