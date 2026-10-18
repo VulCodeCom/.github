@@ -110,22 +110,22 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:summary -->
 <table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>6 695 759</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 956</h3>commitów</td>
+    <td align="center" colspan="2" width="50%"><h3>6 702 706</h3>linii kodu</td>
+    <td align="center" width="25%"><h3>24 985</h3>commitów</td>
     <td align="center" width="25%"><h3>200+</h3>projektów</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>610 000+</h3>gwiazdek projektów OSS</td>
     <td align="center" width="25%"><h3>69</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 667</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 668</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 6 695 759 linii dodanych
-- 983 663 linii usuniętych
-! 5 712 096 linii netto
++ 6 702 706 linii dodanych
+- 983 928 linii usuniętych
+! 5 718 778 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -138,12 +138,12 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Język</th><th align="right">Linie kodu</th><th align="right">Commity</th><th align="right">Udział</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2 910 995</td><td align="right">7 128</td><td align="right">52,0% <sub>████████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">2 913 189</td><td align="right">7 154</td><td align="right">52,0% <sub>████████████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">995 825</td><td align="right">2 536</td><td align="right">17,8% <sub>████</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">285 889</td><td align="right">915</td><td align="right">5,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">206 250</td><td align="right">796</td><td align="right">3,7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">162 872</td><td align="right">752</td><td align="right">2,9% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">143 222</td><td align="right">549</td><td align="right">2,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">143 278</td><td align="right">553</td><td align="right">2,6% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">130 914</td><td align="right">149</td><td align="right">2,3% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">116 812</td><td align="right">437</td><td align="right">2,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">91 810</td><td align="right">438</td><td align="right">1,6% <sub>█</sub></td></tr>
@@ -156,7 +156,7 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
     <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">38 812</td><td align="right">594</td><td align="right">0,7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">37 655</td><td align="right">263</td><td align="right">0,7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=lua" width="18" alt="Lua"></td><td><b>Lua</b></td><td align="right">32 053</td><td align="right">206</td><td align="right">0,6% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">29 635</td><td align="right">266</td><td align="right">0,5% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">29 682</td><td align="right">267</td><td align="right">0,5% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=java" width="18" alt="Java"></td><td><b>Java</b></td><td align="right">13 788</td><td align="right">75</td><td align="right">0,2% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=dart" width="18" alt="Dart"></td><td><b>Dart</b></td><td align="right">6 013</td><td align="right">40</td><td align="right">0,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=solidity" width="18" alt="Solidity"></td><td><b>Solidity</b></td><td align="right">4 688</td><td align="right">33</td><td align="right">0,1% <sub>█</sub></td></tr>
@@ -168,7 +168,7 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 
 **Frameworki i narzędzia wykryte w projektach** <sub>(liczba repozytoriów)</sub>
 
-Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <sub>26</sub> · Tailwind CSS <sub>24</sub> · Motion <sub>18</sub> · Prisma <sub>16</sub> · discord.js <sub>14</sub> · Serde <sub>10</sub> · Tokio <sub>7</sub> · reqwest <sub>7</sub> · Gorilla WebSocket <sub>6</sub> · SQLite <sub>6</sub> · xUnit <sub>6</sub> · Stripe <sub>5</sub> · Avalonia <sub>4</sub> · Axum <sub>4</sub> · JUnit <sub>4</sub> · PHPUnit <sub>4</sub> · Playwright <sub>4</sub> · SQLx <sub>4</sub> · Vitest <sub>4</sub> · Framer Motion <sub>3</sub> · Jetpack Compose <sub>3</sub> · Redis <sub>3</sub> · clap <sub>3</sub> · gRPC <sub>3</sub> · wasm-bindgen <sub>3</sub> · Android <sub>2</sub> · BullMQ <sub>2</sub> · Chart.js <sub>2</sub> · Coroutines <sub>2</sub> · FastAPI <sub>2</sub> · Guzzle <sub>2</sub> · HTTPX <sub>2</sub> · Jest <sub>2</sub> · Laravel <sub>2</sub> · Next.js <sub>2</sub> · Pterodactyl <sub>2</sub> · Zod <sub>2</sub> · aiohttp <sub>2</sub> · discord.py <sub>2</sub> · i18next <sub>2</sub> · pytest <sub>2</sub> · webpack <sub>2</sub> · Click <sub>1</sub> · Cobra <sub>1</sub> · Discord.Net <sub>1</sub> · Docker SDK <sub>1</sub> · Ecto <sub>1</sub> · Electron <sub>1</sub> · Expo <sub>1</sub> · GORM <sub>1</sub> · Gin <sub>1</sub> · Json.NET <sub>1</sub> · Paper <sub>1</sub> · PostgreSQL <sub>1</sub> · Preact <sub>1</sub> · Pydantic <sub>1</sub> · Ratatui <sub>1</sub> · React Native <sub>1</sub> · SQLAlchemy <sub>1</sub> · Spring Boot <sub>1</sub> · Storybook <sub>1</sub> · TanStack Query <sub>1</sub> · Tauri <sub>1</sub> · chi <sub>1</sub> · discordgo <sub>1</sub> · gopher-lua <sub>1</sub> · tonic <sub>1</sub>
+Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <sub>26</sub> · Tailwind CSS <sub>24</sub> · Motion <sub>18</sub> · Prisma <sub>16</sub> · discord.js <sub>14</sub> · Serde <sub>10</sub> · Tokio <sub>7</sub> · reqwest <sub>7</sub> · Gorilla WebSocket <sub>6</sub> · SQLite <sub>6</sub> · xUnit <sub>6</sub> · Stripe <sub>5</sub> · Avalonia <sub>4</sub> · Axum <sub>4</sub> · JUnit <sub>4</sub> · PHPUnit <sub>4</sub> · Playwright <sub>4</sub> · SQLx <sub>4</sub> · Vitest <sub>4</sub> · Framer Motion <sub>3</sub> · Jetpack Compose <sub>3</sub> · Redis <sub>3</sub> · Zod <sub>3</sub> · clap <sub>3</sub> · gRPC <sub>3</sub> · wasm-bindgen <sub>3</sub> · Android <sub>2</sub> · BullMQ <sub>2</sub> · Chart.js <sub>2</sub> · Coroutines <sub>2</sub> · FastAPI <sub>2</sub> · Guzzle <sub>2</sub> · HTTPX <sub>2</sub> · Jest <sub>2</sub> · Laravel <sub>2</sub> · Next.js <sub>2</sub> · Pterodactyl <sub>2</sub> · aiohttp <sub>2</sub> · discord.py <sub>2</sub> · i18next <sub>2</sub> · pytest <sub>2</sub> · webpack <sub>2</sub> · Click <sub>1</sub> · Cobra <sub>1</sub> · Discord.Net <sub>1</sub> · Docker SDK <sub>1</sub> · Ecto <sub>1</sub> · Electron <sub>1</sub> · Expo <sub>1</sub> · GORM <sub>1</sub> · Gin <sub>1</sub> · Json.NET <sub>1</sub> · Paper <sub>1</sub> · PostgreSQL <sub>1</sub> · Preact <sub>1</sub> · Pydantic <sub>1</sub> · Ratatui <sub>1</sub> · React Native <sub>1</sub> · SQLAlchemy <sub>1</sub> · Spring Boot <sub>1</sub> · Storybook <sub>1</sub> · TanStack Query <sub>1</sub> · Tauri <sub>1</sub> · chi <sub>1</sub> · discordgo <sub>1</sub> · gopher-lua <sub>1</sub> · tonic <sub>1</sub>
 <!-- /stats:languages -->
 
 <sub>Liczone przez moje API [ghapi.dualfroz.com](https://ghapi.dualfroz.com/v2/public) ze wszystkich repozytoriów, także prywatnych. Aktualizowane raz na 24 godziny.</sub>
@@ -306,7 +306,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 91,8 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 91,9 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,3 tys. | C++ | <code>+3</code> <code>-1</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,7 tys. | C# | <code>+4724</code> <code>-29</code> |
@@ -371,7 +371,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [brick/date-time](https://github.com/brick/date-time) | ⭐ 361 | PHP | <code>+67</code> <code>-36</code> |
 | [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 338 | Python | <code>+124</code> <code>-1</code> |
 | [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
-| [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 298 | Python | <code>+5</code> <code>-1</code> |
+| [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 297 | Python | <code>+5</code> <code>-1</code> |
 | [QEDK/configparser-rs](https://github.com/QEDK/configparser-rs) | ⭐ 88 | Rust | <code>+22</code> <code>-1</code> |
 | [thephpleague/uri-src](https://github.com/thephpleague/uri-src) | ⭐ 51 | PHP | <code>+18</code> <code>-2</code> |
 | [spiral/testing](https://github.com/spiral/testing) | ⭐ 7 | PHP | <code>+255</code> <code>-6</code> |
