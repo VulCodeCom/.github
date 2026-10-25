@@ -13,6 +13,9 @@ import re
 import urllib.request
 
 API = "https://ghapi.dualfroz.com/v2/public"
+HEADLINE = "https://vulcode.com/headline.json"
+# Proxmox patches go through the pve-devel list, so ghapi does not see them; vulcode.com adds them the same way
+PROXMOX = {"repos": 1, "merged": 6}
 FILES = {"pl": ["profile/README.md", "README.md"], "en": ["profile/README.en.md", "README.en.md"]}
 
 TEXT = {
@@ -40,7 +43,8 @@ TEXT = {
 
 
 def get(path):
-    request = urllib.request.Request(f"{API}{path}", headers={"User-Agent": "dualfroz-readme"})
+    url = path if path.startswith("http") else f"{API}{path}"
+    request = urllib.request.Request(url, headers={"User-Agent": "dualfroz-readme"})
     with urllib.request.urlopen(request, timeout=60) as response:
         return json.load(response)
 
@@ -69,19 +73,19 @@ def block(content, name, body):
     return pattern.sub(lambda _: f"{start}\n{body}\n{end}", content)
 
 
-def summary(s, lang):
+def summary(s, projects, lang):
     t, oss = s["totals"], s["openSource"]["contributed"]
     T = TEXT[lang]
     net = t["linesAdded"] - t["linesRemoved"]
     return f"""<table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>{num(t["linesAdded"], lang)}</h3>{T["loc"]}</td>
+    <td align="center" colspan="2" width="50%"><h3>{num(t["lines"], lang)}</h3>{T["loc"]}</td>
     <td align="center" width="25%"><h3>{num(t["commits"], lang)}</h3>{T["commits"]}</td>
-    <td align="center" width="25%"><h3>200+</h3>{T["projects"]}</td>
+    <td align="center" width="25%"><h3>{num(projects, lang)}+</h3>{T["projects"]}</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>{num(floor_to(oss["stars"], 10_000), lang)}+</h3>{T["oss_stars"]}</td>
-    <td align="center" width="25%"><h3>{num(oss["repos"], lang)}</h3>{T["oss_projects"]}</td>
+    <td align="center" width="25%"><h3>{num(oss["repos"] + PROXMOX["repos"], lang)}</h3>{T["oss_projects"]}</td>
     <td align="center" width="25%"><h3>{num(t["languages"], lang)}</h3>{T["languages"]}</td>
     <td align="center" width="25%"><h3>{num(t["activeDays"], lang)}</h3>{T["days"]}</td>
   </tr>
@@ -123,7 +127,9 @@ def opensource(oss, lang):
     T = TEXT[lang]
     merged = sorted((p for p in oss["projects"] if p["merged"] > 0), key=lambda p: -p["stars"])
     stars = floor_to(oss["contributed"]["stars"], 10_000)
-    intro_line = T["oss_intro"].format(stars=num(stars, lang), repos=len(merged), prs=num(oss["pullRequests"]["merged"], lang))
+    repos = oss["contributed"]["repos"] + PROXMOX["repos"]
+    prs = oss["pullRequests"]["merged"] + PROXMOX["merged"]
+    intro_line = T["oss_intro"].format(stars=num(stars, lang), repos=repos, prs=num(prs, lang))
     lines = [intro_line, "", T["oss_head"], "|---|---|---|---|"]
     for p in merged:
         lines.append(
@@ -133,24 +139,28 @@ def opensource(oss, lang):
     return "\n".join(lines)
 
 
-def intro(content, s, lang):
+def intro(content, s, projects, lang):
     t, oss = s["totals"], s["openSource"]["contributed"]
-    millions = t["linesAdded"] // 1_000_000
+    millions = t["lines"] // 1_000_000
     stars = floor_to(oss["stars"], 10_000)
+    repos = oss["repos"] + PROXMOX["repos"]
     if lang == "pl":
         content = re.sub(r"ponad \*\*\d+ mln linijek kodu\*\*", f"ponad **{millions} mln linijek kodu**", content)
-        content = re.sub(r"cegiełkę do \*\*\d+ repozytoriów open source\*\*", f"cegiełkę do **{oss['repos']} repozytoriów open source**", content)
+        content = re.sub(r"cegiełkę do \*\*\d+ repozytoriów open source\*\*", f"cegiełkę do **{repos} repozytoriów open source**", content)
         content = re.sub(r"mają \*\*[\d  ]+\+ gwiazdek\*\*", f"mają **{num(stars, lang)}+ gwiazdek**", content)
+        content = re.sub(r"w \*\*\d+\+ projektach\*\*", f"w **{projects}+ projektach**", content)
     else:
         content = re.sub(r"more than \*\*\d+ million lines of code\*\*", f"more than **{millions} million lines of code**", content)
-        content = re.sub(r"contributed to \*\*\d+ open source repositories\*\*", f"contributed to **{oss['repos']} open source repositories**", content)
+        content = re.sub(r"contributed to \*\*\d+ open source repositories\*\*", f"contributed to **{repos} open source repositories**", content)
         content = re.sub(r"\*\*[\d,]+\+ combined stars\*\*", f"**{num(stars, lang)}+ combined stars**", content)
+        content = re.sub(r"across \*\*\d+\+ projects\*\*", f"across **{projects}+ projects**", content)
     return content
 
 
 def main():
     frameworks = get("/frameworks")["frameworks"]
     oss = get("/opensource?limit=500")
+    projects = get(HEADLINE)["projects"]
     for lang, paths in FILES.items():
         s = get(f"/summary?lang={lang}")
         langs = get(f"/languages?limit=100&lang={lang}")["languages"]
@@ -158,8 +168,8 @@ def main():
             content = open(path, encoding="utf-8").read()
             icons = dict((m.group(2), m.group(1)) for m in re.finditer(
                 r'<tr><td><img src="([^"]+)" width="18" alt="([^"]+)"></td>', content))
-            content = intro(content, s, lang)
-            content = block(content, "summary", summary(s, lang))
+            content = intro(content, s, projects, lang)
+            content = block(content, "summary", summary(s, projects, lang))
             content = block(content, "languages", languages(langs, frameworks, icons, lang))
             content = block(content, "opensource", opensource(oss, lang))
             open(path, "w", encoding="utf-8").write(content)
