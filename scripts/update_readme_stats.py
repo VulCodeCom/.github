@@ -14,7 +14,6 @@ import urllib.request
 
 API = "https://ghapi.dualfroz.com/v2/public"
 HEADLINE = "https://vulcode.com/headline.json"
-# Proxmox patches go through the pve-devel list, so ghapi does not see them; vulcode.com adds them the same way
 PROXMOX = {"repos": 1, "merged": 6}
 FILES = {"pl": ["profile/README.md", "README.md"], "en": ["profile/README.en.md", "README.en.md"]}
 
