@@ -2,15 +2,20 @@ name: stats
 
 on:
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: stats
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Refresh numbers from ghapi
@@ -21,4 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "chore: refresh readme stats"
+          git pull --rebase --quiet
           git push
