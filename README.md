@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **77 repozytoriów open source**, które łącznie mają **1 050 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **92 repozytoriów open source**, które łącznie mają **1 380 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -110,22 +110,22 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:summary -->
 <table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>6 356 665</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 263</h3>commitów</td>
+    <td align="center" colspan="2" width="50%"><h3>7 620 185</h3>linii kodu</td>
+    <td align="center" width="25%"><h3>25 207</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 050 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>77</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 380 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>92</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 679</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 692</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 7 444 174 linii dodanych
-- 1 299 484 linii usuniętych
-! 6 144 690 linii netto
++ 9 614 669 linii dodanych
+- 1 416 858 linii usuniętych
+! 8 197 811 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -138,37 +138,37 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Język</th><th align="right">Linie kodu</th><th align="right">Commity</th><th align="right">Udział</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">3 234 291</td><td align="right">7 497</td><td align="right">50,9% <sub>███████████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">1 277 392</td><td align="right">2 762</td><td align="right">20,1% <sub>████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">343 647</td><td align="right">965</td><td align="right">5,4% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">207 212</td><td align="right">552</td><td align="right">3,3% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">175 421</td><td align="right">707</td><td align="right">2,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">144 065</td><td align="right">584</td><td align="right">2,3% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">133 817</td><td align="right">110</td><td align="right">2,1% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">119 541</td><td align="right">437</td><td align="right">1,9% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">106 142</td><td align="right">411</td><td align="right">1,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">91 130</td><td align="right">351</td><td align="right">1,4% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80 656</td><td align="right">157</td><td align="right">1,3% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">66 302</td><td align="right">563</td><td align="right">1,0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">60 532</td><td align="right">84</td><td align="right">1,0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">52 836</td><td align="right">73</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=c" width="18" alt="C"></td><td><b>C</b></td><td align="right">51 238</td><td align="right">109</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=lua" width="18" alt="Lua"></td><td><b>Lua</b></td><td align="right">47 845</td><td align="right">64</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">47 676</td><td align="right">681</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=zig" width="18" alt="Zig"></td><td><b>Zig</b></td><td align="right">46 238</td><td align="right">73</td><td align="right">0,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">32 495</td><td align="right">311</td><td align="right">0,5% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">3 784 862</td><td align="right">7 913</td><td align="right">49,7% <sub>███████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">1 715 468</td><td align="right">2 997</td><td align="right">22,5% <sub>█████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">508 756</td><td align="right">1 088</td><td align="right">6,7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">207 212</td><td align="right">552</td><td align="right">2,7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">175 421</td><td align="right">707</td><td align="right">2,3% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">148 638</td><td align="right">624</td><td align="right">2,0% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">145 964</td><td align="right">472</td><td align="right">1,9% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">134 169</td><td align="right">111</td><td align="right">1,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">121 261</td><td align="right">401</td><td align="right">1,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">119 541</td><td align="right">437</td><td align="right">1,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">86 459</td><td align="right">610</td><td align="right">1,1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80 980</td><td align="right">177</td><td align="right">1,1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">60 532</td><td align="right">84</td><td align="right">0,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">57 940</td><td align="right">811</td><td align="right">0,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">52 836</td><td align="right">73</td><td align="right">0,7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=c" width="18" alt="C"></td><td><b>C</b></td><td align="right">52 355</td><td align="right">110</td><td align="right">0,7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=lua" width="18" alt="Lua"></td><td><b>Lua</b></td><td align="right">47 845</td><td align="right">64</td><td align="right">0,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=zig" width="18" alt="Zig"></td><td><b>Zig</b></td><td align="right">46 238</td><td align="right">73</td><td align="right">0,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">35 519</td><td align="right">364</td><td align="right">0,5% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=java" width="18" alt="Java"></td><td><b>Java</b></td><td align="right">14 401</td><td align="right">50</td><td align="right">0,2% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=dart" width="18" alt="Dart"></td><td><b>Dart</b></td><td align="right">6 146</td><td align="right">28</td><td align="right">0,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=scala" width="18" alt="Scala"></td><td><b>Scala</b></td><td align="right">5 439</td><td align="right">25</td><td align="right">0,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=solidity" width="18" alt="Solidity"></td><td><b>Solidity</b></td><td align="right">4 688</td><td align="right">33</td><td align="right">0,1% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=haskell" width="18" alt="Haskell"></td><td><b>Haskell</b></td><td align="right">3 641</td><td align="right">25</td><td align="right">0,1% <sub>█</sub></td></tr>
-    <tr><td><img src="https://docs.vulcode.com/uploads/images/gallery/2026-09/fsharp.png" width="18" alt="F#"></td><td><b>F#</b></td><td align="right">3 297</td><td align="right">19</td><td align="right">0,1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=haskell" width="18" alt="Haskell"></td><td><b>Haskell</b></td><td align="right">3 641</td><td align="right">25</td><td align="right">0,0% <sub>█</sub></td></tr>
+    <tr><td><img src="https://docs.vulcode.com/uploads/images/gallery/2026-09/fsharp.png" width="18" alt="F#"></td><td><b>F#</b></td><td align="right">3 297</td><td align="right">19</td><td align="right">0,0% <sub>█</sub></td></tr>
     <tr><td><img src="https://docs.vulcode.com/uploads/images/gallery/2026-09/assembly.png" width="18" alt="Assembly"></td><td><b>Assembly</b></td><td align="right">577</td><td align="right">8</td><td align="right">0,0% <sub>█</sub></td></tr>
 </table>
 
 **Frameworki i narzędzia wykryte w projektach** <sub>(liczba repozytoriów)</sub>
 
-Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <sub>26</sub> · Tailwind CSS <sub>24</sub> · Motion <sub>18</sub> · Prisma <sub>16</sub> · discord.js <sub>14</sub> · Serde <sub>10</sub> · Tokio <sub>7</sub> · reqwest <sub>7</sub> · Gorilla WebSocket <sub>6</sub> · SQLite <sub>6</sub> · xUnit <sub>6</sub> · Stripe <sub>5</sub> · Avalonia <sub>4</sub> · Axum <sub>4</sub> · JUnit <sub>4</sub> · PHPUnit <sub>4</sub> · Playwright <sub>4</sub> · SQLx <sub>4</sub> · Vitest <sub>4</sub> · Framer Motion <sub>3</sub> · Jetpack Compose <sub>3</sub> · Redis <sub>3</sub> · Zod <sub>3</sub> · clap <sub>3</sub> · gRPC <sub>3</sub> · wasm-bindgen <sub>3</sub> · Android <sub>2</sub> · BullMQ <sub>2</sub> · Chart.js <sub>2</sub> · Coroutines <sub>2</sub> · FastAPI <sub>2</sub> · Guzzle <sub>2</sub> · HTTPX <sub>2</sub> · Jest <sub>2</sub> · Laravel <sub>2</sub> · Next.js <sub>2</sub> · Pterodactyl <sub>2</sub> · aiohttp <sub>2</sub> · discord.py <sub>2</sub> · i18next <sub>2</sub> · pytest <sub>2</sub> · webpack <sub>2</sub> · Click <sub>1</sub> · Cobra <sub>1</sub> · Discord.Net <sub>1</sub> · Docker SDK <sub>1</sub> · Ecto <sub>1</sub> · Electron <sub>1</sub> · Expo <sub>1</sub> · GORM <sub>1</sub> · Gin <sub>1</sub> · Json.NET <sub>1</sub> · Paper <sub>1</sub> · PostgreSQL <sub>1</sub> · Preact <sub>1</sub> · Pydantic <sub>1</sub> · Ratatui <sub>1</sub> · React Native <sub>1</sub> · SQLAlchemy <sub>1</sub> · Spring Boot <sub>1</sub> · Storybook <sub>1</sub> · TanStack Query <sub>1</sub> · Tauri <sub>1</sub> · chi <sub>1</sub> · discordgo <sub>1</sub> · gopher-lua <sub>1</sub> · pygame <sub>1</sub> · tonic <sub>1</sub>
+Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <sub>27</sub> · Tailwind CSS <sub>25</sub> · Motion <sub>19</sub> · Prisma <sub>16</sub> · discord.js <sub>14</sub> · Serde <sub>10</sub> · Gorilla WebSocket <sub>7</sub> · Tokio <sub>7</sub> · reqwest <sub>7</sub> · SQLite <sub>6</sub> · xUnit <sub>6</sub> · Stripe <sub>5</sub> · Avalonia <sub>4</sub> · Axum <sub>4</sub> · JUnit <sub>4</sub> · PHPUnit <sub>4</sub> · Playwright <sub>4</sub> · SQLx <sub>4</sub> · Vitest <sub>4</sub> · Framer Motion <sub>3</sub> · Jetpack Compose <sub>3</sub> · Redis <sub>3</sub> · Zod <sub>3</sub> · clap <sub>3</sub> · gRPC <sub>3</sub> · wasm-bindgen <sub>3</sub> · Android <sub>2</sub> · BullMQ <sub>2</sub> · Chart.js <sub>2</sub> · Coroutines <sub>2</sub> · FastAPI <sub>2</sub> · Guzzle <sub>2</sub> · HTTPX <sub>2</sub> · Jest <sub>2</sub> · Laravel <sub>2</sub> · Next.js <sub>2</sub> · Pterodactyl <sub>2</sub> · aiohttp <sub>2</sub> · discord.py <sub>2</sub> · i18next <sub>2</sub> · pytest <sub>2</sub> · webpack <sub>2</sub> · Click <sub>1</sub> · Cobra <sub>1</sub> · Discord.Net <sub>1</sub> · Docker SDK <sub>1</sub> · Ecto <sub>1</sub> · Electron <sub>1</sub> · Expo <sub>1</sub> · GORM <sub>1</sub> · Gin <sub>1</sub> · Json.NET <sub>1</sub> · Paper <sub>1</sub> · PostgreSQL <sub>1</sub> · Preact <sub>1</sub> · Pydantic <sub>1</sub> · Ratatui <sub>1</sub> · React Native <sub>1</sub> · SQLAlchemy <sub>1</sub> · Spring Boot <sub>1</sub> · Storybook <sub>1</sub> · TanStack Query <sub>1</sub> · Tauri <sub>1</sub> · Three.js <sub>1</sub> · chi <sub>1</sub> · discordgo <sub>1</sub> · gopher-lua <sub>1</sub> · pygame <sub>1</sub> · tonic <sub>1</sub>
 <!-- /stats:languages -->
 
 <sub>Liczone przez moje API [ghapi.dualfroz.com](https://ghapi.dualfroz.com/v2/public) ze wszystkich repozytoriów, także prywatnych. Aktualizowane raz na 24 godziny.</sub>
@@ -314,92 +314,106 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | Proxmox VE | [proxmox-widget-toolkit](https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=search;h=HEAD;s=Michal+Fox;st=author)<br><sub>git.proxmox.com</sub> | przyjęte, 1 commit | [b92a9ad19f](https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=commit;h=b92a9ad19f) fix #6943: ui: network selector: show comments of IPv6 entries |
 | Mozilla Firefox | [mozilla-central](https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8)<br><sub>hg.mozilla.org</sub> | przyjęte, 1 commit | [Bug 1996443](https://bugzilla.mozilla.org/show_bug.cgi?id=1996443) zgłoszenie w Bugzilli<br>[D332854](https://phabricator.services.mozilla.com/D332854) rewizja w Phabricatorze<br>[9c1b9b8ff0a8](https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8) commit w mozilla-central<br>[16fd06a0033d](https://github.com/mozilla-firefox/firefox/commit/16fd06a0033d) mirror na GitHubie |
 | Blender | [blender/blender](https://projects.blender.org/blender/blender)<br><sub>projects.blender.org</sub> | zaakceptowane, czeka na merge | [#165627](https://projects.blender.org/blender/blender/pulls/165627) Fix #92527: unhide w Local View<br>[#165628](https://projects.blender.org/blender/blender/pulls/165628) Fix #96432: klawisz D w edycji tekstu |
-| Godot | [godotengine/godot](https://github.com/godotengine/godot/pull/124841)<br><sub>GitHub</sub> | zaakceptowane, czeka na merge | [#124841](https://github.com/godotengine/godot/pull/124841) Return X11 focus to parent popup |
 | OBS Studio | [obsproject/obs-studio](https://github.com/obsproject/obs-studio/pull/14080)<br><sub>GitHub</sub> | zaakceptowane, czeka na merge | [#14080](https://github.com/obsproject/obs-studio/pull/14080) libobs: numpad bez NumLocka na Waylandzie |
 <!-- /stats:beyond -->
 
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 050 000+ ⭐ w 77 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 380 000+ ⭐ w 92 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,1 tys. | JavaScript | <code>+43</code> <code>-7</code> |
-| [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+3</code> <code>-0</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,3 tys. | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,2 tys. | Rust | <code>+124</code> <code>-7</code> |
-| [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
-| [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | JavaScript | <code>+37</code> <code>-1</code> |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,4 tys. | C++ | <code>+7</code> <code>-5</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,8 tys. | JavaScript | <code>+43</code> <code>-7</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 120,5 tys. | C++ | <code>+3</code> <code>-0</code> |
+| [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,4 tys. | JavaScript | <code>+23</code> <code>-28</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 95,4 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 92,5 tys. | Rust | <code>+124</code> <code>-7</code> |
+| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 78 tys. | TypeScript | <code>+52</code> <code>-2</code> |
+| [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,2 tys. | Rust | <code>+127</code> <code>-30</code> |
+| [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,6 tys. | Ruby | <code>+34</code> <code>-2</code> |
+| [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | TypeScript | <code>+37</code> <code>-1</code> |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,6 tys. | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,8 tys. | C# | <code>+4724</code> <code>-29</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27,1 tys. | C# | <code>+4777</code> <code>-35</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24,3 tys. | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22,3 tys. | PHP | <code>+135</code> <code>-4</code> |
+| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,3 tys. | Go | <code>+43</code> <code>-17</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22,2 tys. | JavaScript | <code>+314</code> <code>-63</code> |
-| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,1 tys. | Go | <code>+43</code> <code>-17</code> |
-| [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22 tys. | Rust | <code>+134</code> <code>-1</code> |
+| [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22,1 tys. | Rust | <code>+134</code> <code>-1</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21,4 tys. | PHP | <code>+41</code> <code>-2</code> |
-| [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21,4 tys. | Rust | <code>+217</code> <code>-36</code> |
-| [lichess-org/lila](https://github.com/lichess-org/lila) | ⭐ 18,9 tys. | Scala | <code>+35</code> <code>-7</code> |
-| [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17,7 tys. | C# | <code>+43</code> <code>-5</code> |
+| [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21,4 tys. | Rust | <code>+337</code> <code>-49</code> |
+| [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19,1 tys. | C++ | <code>+7</code> <code>-2</code> |
+| [lichess-org/lila](https://github.com/lichess-org/lila) | ⭐ 19 tys. | Scala | <code>+35</code> <code>-7</code> |
+| [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17,8 tys. | C# | <code>+43</code> <code>-5</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16,6 tys. | PHP | <code>+87</code> <code>-0</code> |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | ⭐ 15 tys. | Go | <code>+183</code> <code>-18</code> |
 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | ⭐ 14,3 tys. | C# | <code>+19</code> <code>-1</code> |
 | [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | ⭐ 13,6 tys. | Go | <code>+381</code> <code>-297</code> |
 | [filp/whoops](https://github.com/filp/whoops) | ⭐ 13,2 tys. | PHP | <code>+115</code> <code>-3</code> |
-| [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+498</code> <code>-89</code> |
+| [PaperMC/Paper](https://github.com/PaperMC/Paper) | ⭐ 12,8 tys. | Java | <code>+51</code> <code>-4</code> |
+| [ramsey/uuid](https://github.com/ramsey/uuid) | ⭐ 12,6 tys. | PHP | <code>+14</code> <code>-0</code> |
+| [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+518</code> <code>-91</code> |
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
-| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9,9 tys. | PHP | <code>+293</code> <code>-11</code> |
+| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 10 tys. | PHP | <code>+293</code> <code>-11</code> |
 | [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) | ⭐ 9,8 tys. | C# | <code>+14</code> <code>-1</code> |
+| [pterodactyl/panel](https://github.com/pterodactyl/panel) | ⭐ 9,5 tys. | PHP | <code>+145</code> <code>-3</code> |
+| [fission/fission](https://github.com/fission/fission) | ⭐ 8,9 tys. | Go | <code>+569</code> <code>-15</code> |
 | [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8,1 tys. | C# | <code>+12</code> <code>-0</code> |
 | [concourse/concourse](https://github.com/concourse/concourse) | ⭐ 7,9 tys. | Go | <code>+153</code> <code>-23</code> |
 | [predis/predis](https://github.com/predis/predis) | ⭐ 7,8 tys. | PHP | <code>+352</code> <code>-27</code> |
 | [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) | ⭐ 7,8 tys. | TypeScript | <code>+65</code> <code>-2</code> |
-| [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+94</code> <code>-4</code> |
+| [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+435</code> <code>-27</code> |
 | [maildev/maildev](https://github.com/maildev/maildev) | ⭐ 6,2 tys. | TypeScript | <code>+69</code> <code>-13</code> |
-| [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,5 tys. | Rust | <code>+48</code> <code>-2</code> |
-| [xoofx/markdig](https://github.com/xoofx/markdig) | ⭐ 5,3 tys. | C# | <code>+357</code> <code>-48</code> |
+| [diffplug/spotless](https://github.com/diffplug/spotless) | ⭐ 5,7 tys. | Java | <code>+17</code> <code>-2</code> |
+| [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | ⭐ 5,7 tys. | JavaScript | <code>+9</code> <code>-13</code> |
+| [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,6 tys. | Rust | <code>+232</code> <code>-14</code> |
+| [xoofx/markdig](https://github.com/xoofx/markdig) | ⭐ 5,4 tys. | C# | <code>+357</code> <code>-48</code> |
 | [dromara/carbon](https://github.com/dromara/carbon) | ⭐ 5,2 tys. | Go | <code>+41</code> <code>-4</code> |
 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | ⭐ 5,1 tys. | Go | <code>+90</code> <code>-3</code> |
 | [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) | ⭐ 4,8 tys. | Go | <code>+16</code> <code>-0</code> |
 | [knadh/koanf](https://github.com/knadh/koanf) | ⭐ 4,2 tys. | Go | <code>+28</code> <code>-7</code> |
+| [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) | ⭐ 4,1 tys. | Python | <code>+15</code> <code>-3</code> |
 | [spencermountain/spacetime](https://github.com/spencermountain/spacetime) | ⭐ 4,1 tys. | JavaScript | <code>+67</code> <code>-62</code> |
 | [itchyny/gojq](https://github.com/itchyny/gojq) | ⭐ 3,8 tys. | Go | <code>+42</code> <code>-5</code> |
 | [Suor/funcy](https://github.com/Suor/funcy) | ⭐ 3,5 tys. | Python | <code>+18</code> <code>-2</code> |
 | [thephpleague/csv](https://github.com/thephpleague/csv) | ⭐ 3,5 tys. | PHP | <code>+22</code> <code>-9</code> |
-| [composer/satis](https://github.com/composer/satis) | ⭐ 3,3 tys. | PHP | <code>+105</code> <code>-12</code> |
+| [composer/satis](https://github.com/composer/satis) | ⭐ 3,3 tys. | PHP | <code>+239</code> <code>-14</code> |
+| [BurntSushi/jiff](https://github.com/BurntSushi/jiff) | ⭐ 3,3 tys. | Rust | <code>+37</code> <code>-5</code> |
+| [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3,2 tys. | Go | <code>+1437</code> <code>-97</code> |
 | [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) | ⭐ 3,1 tys. | JavaScript | <code>+2</code> <code>-0</code> |
-| [versity/versitygw](https://github.com/versity/versitygw) | ⭐ 3,1 tys. | Go | <code>+1004</code> <code>-85</code> |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | ⭐ 3 tys. | Go | <code>+66</code> <code>-23</code> |
 | [mitsuhiko/insta](https://github.com/mitsuhiko/insta) | ⭐ 3 tys. | Rust | <code>+8</code> <code>-2</code> |
 | [thephpleague/commonmark](https://github.com/thephpleague/commonmark) | ⭐ 3 tys. | PHP | <code>+17</code> <code>-0</code> |
-| [BurntSushi/jiff](https://github.com/BurntSushi/jiff) | ⭐ 3 tys. | Rust | <code>+37</code> <code>-5</code> |
+| [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2,9 tys. | PHP | <code>+137</code> <code>-11</code> |
 | [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) | ⭐ 2,9 tys. | C# | <code>+27</code> <code>-1</code> |
-| [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) | ⭐ 2,8 tys. | PHP | <code>+137</code> <code>-11</code> |
 | [api-platform/core](https://github.com/api-platform/core) | ⭐ 2,6 tys. | PHP | <code>+52</code> <code>-27</code> |
 | [pelican/panel](https://github.com/pelican/panel) | ⭐ 2,4 tys. | PHP | <code>+338</code> <code>-32</code> |
 | [gookit/goutil](https://github.com/gookit/goutil) | ⭐ 2,4 tys. | Go | <code>+12</code> <code>-0</code> |
 | [dedoc/scramble](https://github.com/dedoc/scramble) | ⭐ 2,2 tys. | PHP | <code>+23</code> <code>-0</code> |
 | [gocarina/gocsv](https://github.com/gocarina/gocsv) | ⭐ 2,2 tys. | Go | <code>+185</code> <code>-22</code> |
 | [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) | ⭐ 1,9 tys. | PHP | <code>+20</code> <code>-9</code> |
-| [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | ⭐ 1,6 tys. | Go | <code>+99</code> <code>-3</code> |
-| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1,6 tys. | Python | <code>+66</code> <code>-5</code> |
+| [spatie/period](https://github.com/spatie/period) | ⭐ 1,7 tys. | PHP | <code>+69</code> <code>-0</code> |
+| [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | ⭐ 1,7 tys. | Go | <code>+99</code> <code>-3</code> |
 | [gookit/color](https://github.com/gookit/color) | ⭐ 1,6 tys. | Go | <code>+12</code> <code>-1</code> |
+| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1,6 tys. | Python | <code>+66</code> <code>-5</code> |
+| [linuxmint/nemo](https://github.com/linuxmint/nemo) | ⭐ 1,6 tys. | C | <code>+4</code> <code>-6</code> |
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1,5 tys. | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1,4 tys. | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1,4 tys. | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 932 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 935 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
-| [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
-| [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 385 | Assembly | <code>+146</code> <code>-12</code> |
-| [brick/date-time](https://github.com/brick/date-time) | ⭐ 360 | PHP | <code>+67</code> <code>-36</code> |
-| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 339 | Python | <code>+124</code> <code>-1</code> |
-| [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
+| [gookit/config](https://github.com/gookit/config) | ⭐ 584 | Go | <code>+29</code> <code>-8</code> |
+| [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 504 | Rust | <code>+24</code> <code>-2</code> |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 386 | Assembly | <code>+146</code> <code>-12</code> |
+| [brick/date-time](https://github.com/brick/date-time) | ⭐ 361 | PHP | <code>+67</code> <code>-36</code> |
+| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 345 | Python | <code>+124</code> <code>-1</code> |
+| [pelican/wings](https://github.com/pelican/wings) | ⭐ 333 | Go | <code>+328</code> <code>-8</code> |
+| [rodaine/table](https://github.com/rodaine/table) | ⭐ 325 | Go | <code>+32</code> <code>-2</code> |
 | [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 296 | Python | <code>+5</code> <code>-1</code> |
 | [QEDK/configparser-rs](https://github.com/QEDK/configparser-rs) | ⭐ 88 | Rust | <code>+22</code> <code>-1</code> |
 | [thephpleague/uri-src](https://github.com/thephpleague/uri-src) | ⭐ 51 | PHP | <code>+18</code> <code>-2</code> |
+| [Vretu-Dev/UsefulHints](https://github.com/Vretu-Dev/UsefulHints) | ⭐ 18 | C# | <code>+3</code> <code>-6</code> |
 | [spiral/testing](https://github.com/spiral/testing) | ⭐ 7 | PHP | <code>+255</code> <code>-6</code> |
 <!-- /stats:opensource -->
 
