@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **79 repozytoriów open source**, które łącznie mają **1 100 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **80 repozytoriów open source**, które łącznie mają **1 220 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -111,21 +111,21 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>6 396 043</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 311</h3>commitów</td>
+    <td align="center" width="25%"><h3>24 313</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 100 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>79</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 220 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>80</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
     <td align="center" width="25%"><h3>1 679</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 7 573 202 linii dodanych
-- 1 318 109 linii usuniętych
-! 6 255 093 linii netto
++ 7 573 499 linii dodanych
+- 1 318 429 linii usuniętych
+! 6 255 070 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -320,14 +320,15 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 100 000+ ⭐ w 79 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 220 000+ ⭐ w 80 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
 | [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,1 tys. | JavaScript | <code>+43</code> <code>-7</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,2 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,3 tys. | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,2 tys. | Rust | <code>+124</code> <code>-7</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,3 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,5 tys. | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | JavaScript | <code>+37</code> <code>-1</code> |
