@@ -1,0 +1,292 @@
+{
+    "contributions": [
+        {
+            "project": "Proxmox VE",
+            "platform": "git.proxmox.com",
+            "repo": "pve-manager",
+            "url": "https://git.proxmox.com/?p=pve-manager.git;a=summary",
+            "authorSearchUrl": "https://git.proxmox.com/?p=pve-manager.git;a=search;h=HEAD;s=Michal+Fox;st=author",
+            "status": "accepted",
+            "commits": 6,
+            "language": "JavaScript",
+            "color": "#f1e05a",
+            "description": {
+                "pl": "Interfejs WWW i API Proxmox VE, platformy wirtualizacji serwerów.",
+                "en": "Web interface and API of Proxmox VE, the server virtualization platform."
+            },
+            "changes": [
+                {
+                    "label": "e42092e",
+                    "title": {
+                        "pl": "fix #6475: ui: upload: only show the file name of the selected file",
+                        "en": "fix #6475: ui: upload: only show the file name of the selected file"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=e42092e"
+                },
+                {
+                    "label": "ac0c87d",
+                    "title": {
+                        "pl": "fix #4986: jobs: do not get stuck if the task log is missing",
+                        "en": "fix #4986: jobs: do not get stuck if the task log is missing"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=ac0c87d"
+                },
+                {
+                    "label": "8efee57",
+                    "title": {
+                        "pl": "fix #7108: ui: ipset: do not offer aliases that are already added",
+                        "en": "fix #7108: ui: ipset: do not offer aliases that are already added"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=8efee57"
+                },
+                {
+                    "label": "55c76c2",
+                    "title": {
+                        "pl": "fix #5608: ui: resource mappings: validate the name like the API does",
+                        "en": "fix #5608: ui: resource mappings: validate the name like the API does"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=55c76c2"
+                },
+                {
+                    "label": "2380c3d",
+                    "title": {
+                        "pl": "fix #8015: ui: upload: let the user choose the .img image format",
+                        "en": "fix #8015: ui: upload: let the user choose the .img image format"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=2380c3d"
+                },
+                {
+                    "label": "ebf648d",
+                    "title": {
+                        "pl": "fix #8015: ui: download url: let the user choose the .img image format",
+                        "en": "fix #8015: ui: download url: let the user choose the .img image format"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-manager.git;a=commit;h=ebf648d"
+                }
+            ]
+        },
+        {
+            "project": "Proxmox VE",
+            "platform": "git.proxmox.com",
+            "repo": "qemu-server",
+            "url": "https://git.proxmox.com/?p=qemu-server.git;a=summary",
+            "authorSearchUrl": "https://git.proxmox.com/?p=qemu-server.git;a=search;h=HEAD;s=Michal+Fox;st=author",
+            "status": "accepted",
+            "commits": 3,
+            "language": "Perl",
+            "color": "#0298c3",
+            "description": {
+                "pl": "Obsługa maszyn wirtualnych QEMU/KVM w Proxmox VE.",
+                "en": "QEMU/KVM virtual machine management in Proxmox VE."
+            },
+            "changes": [
+                {
+                    "label": "167f3d70a5",
+                    "title": {
+                        "pl": "fix #6907: memory: allow multi-digit host nodes with hugepages",
+                        "en": "fix #6907: memory: allow multi-digit host nodes with hugepages"
+                    },
+                    "url": "https://git.proxmox.com/?p=qemu-server.git;a=commit;h=167f3d70a5"
+                },
+                {
+                    "label": "a4efa5f9ad",
+                    "title": {
+                        "pl": "partially fix #4012: migrate: mention snapshots referencing a local ISO image",
+                        "en": "partially fix #4012: migrate: mention snapshots referencing a local ISO image"
+                    },
+                    "url": "https://git.proxmox.com/?p=qemu-server.git;a=commit;h=a4efa5f9ad"
+                },
+                {
+                    "label": "5abda85",
+                    "title": {
+                        "pl": "test: migration: support volumes other than images",
+                        "en": "test: migration: support volumes other than images"
+                    },
+                    "url": "https://git.proxmox.com/?p=qemu-server.git;a=commit;h=5abda85"
+                }
+            ]
+        },
+        {
+            "project": "Proxmox VE",
+            "platform": "git.proxmox.com",
+            "repo": "pve-storage",
+            "url": "https://git.proxmox.com/?p=pve-storage.git;a=summary",
+            "authorSearchUrl": "https://git.proxmox.com/?p=pve-storage.git;a=search;h=HEAD;s=Michal+Fox;st=author",
+            "status": "accepted",
+            "commits": 1,
+            "language": "Perl",
+            "color": "#0298c3",
+            "description": {
+                "pl": "Warstwa magazynów danych Proxmox VE.",
+                "en": "Storage layer of Proxmox VE."
+            },
+            "changes": [
+                {
+                    "label": "c10faa6972",
+                    "title": {
+                        "pl": "fix #6969: plugin: keep content directory when freeing its last file",
+                        "en": "fix #6969: plugin: keep content directory when freeing its last file"
+                    },
+                    "url": "https://git.proxmox.com/?p=pve-storage.git;a=commit;h=c10faa6972"
+                }
+            ]
+        },
+        {
+            "project": "Proxmox VE",
+            "platform": "git.proxmox.com",
+            "repo": "proxmox-widget-toolkit",
+            "url": "https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=summary",
+            "authorSearchUrl": "https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=search;h=HEAD;s=Michal+Fox;st=author",
+            "status": "accepted",
+            "commits": 1,
+            "language": "JavaScript",
+            "color": "#f1e05a",
+            "description": {
+                "pl": "Wspólne komponenty interfejsu produktów Proxmox.",
+                "en": "Shared UI components of the Proxmox products."
+            },
+            "changes": [
+                {
+                    "label": "b92a9ad19f",
+                    "title": {
+                        "pl": "fix #6943: ui: network selector: show comments of IPv6 entries",
+                        "en": "fix #6943: ui: network selector: show comments of IPv6 entries"
+                    },
+                    "url": "https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=commit;h=b92a9ad19f"
+                }
+            ]
+        },
+        {
+            "project": "Mozilla Firefox",
+            "platform": "hg.mozilla.org",
+            "repo": "mozilla-central",
+            "url": "https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8",
+            "authorSearchUrl": null,
+            "status": "accepted",
+            "commits": 1,
+            "language": "JavaScript",
+            "color": "#f1e05a",
+            "description": {
+                "pl": "Menedżer haseł: \"View Saved Passwords\" otwierało about:logins bez fokusu. Wydanie: Firefox 160.",
+                "en": "Password manager: \"View Saved Passwords\" opened about:logins without focus. Release: Firefox 160."
+            },
+            "changes": [
+                {
+                    "label": "Bug 1996443",
+                    "title": {
+                        "pl": "zgłoszenie w Bugzilli",
+                        "en": "Bugzilla report"
+                    },
+                    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1996443"
+                },
+                {
+                    "label": "D332854",
+                    "title": {
+                        "pl": "rewizja w Phabricatorze",
+                        "en": "Phabricator revision"
+                    },
+                    "url": "https://phabricator.services.mozilla.com/D332854"
+                },
+                {
+                    "label": "9c1b9b8ff0a8",
+                    "title": {
+                        "pl": "commit w mozilla-central",
+                        "en": "mozilla-central commit"
+                    },
+                    "url": "https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8"
+                },
+                {
+                    "label": "16fd06a0033d",
+                    "title": {
+                        "pl": "mirror na GitHubie",
+                        "en": "GitHub mirror"
+                    },
+                    "url": "https://github.com/mozilla-firefox/firefox/commit/16fd06a0033d"
+                }
+            ]
+        },
+        {
+            "project": "Blender",
+            "platform": "projects.blender.org",
+            "repo": "blender/blender",
+            "url": "https://projects.blender.org/blender/blender",
+            "authorSearchUrl": null,
+            "status": "approved",
+            "commits": 0,
+            "language": "C++",
+            "color": "#f34b7d",
+            "description": {
+                "pl": "Dwie poprawki zaakceptowane przez maintainerów: Local View i edycja tekstu.",
+                "en": "Two fixes approved by the maintainers: Local View and text editing."
+            },
+            "changes": [
+                {
+                    "label": "#165627",
+                    "title": {
+                        "pl": "Fix #92527: unhide w Local View",
+                        "en": "Fix #92527: Local View unhide"
+                    },
+                    "url": "https://projects.blender.org/blender/blender/pulls/165627"
+                },
+                {
+                    "label": "#165628",
+                    "title": {
+                        "pl": "Fix #96432: klawisz D w edycji tekstu",
+                        "en": "Fix #96432: D key in text editing"
+                    },
+                    "url": "https://projects.blender.org/blender/blender/pulls/165628"
+                }
+            ]
+        },
+        {
+            "project": "Godot",
+            "platform": "GitHub",
+            "repo": "godotengine/godot",
+            "url": "https://github.com/godotengine/godot/pull/124841",
+            "authorSearchUrl": null,
+            "status": "approved",
+            "commits": 0,
+            "language": "C++",
+            "color": "#f34b7d",
+            "description": {
+                "pl": "Fokus X11 wraca do nadrzędnego popupu. Milestone 4.8.",
+                "en": "X11 focus returns to the parent popup. Milestone 4.8."
+            },
+            "changes": [
+                {
+                    "label": "#124841",
+                    "title": {
+                        "pl": "Return X11 focus to parent popup",
+                        "en": "Return X11 focus to parent popup"
+                    },
+                    "url": "https://github.com/godotengine/godot/pull/124841"
+                }
+            ]
+        },
+        {
+            "project": "OBS Studio",
+            "platform": "GitHub",
+            "repo": "obsproject/obs-studio",
+            "url": "https://github.com/obsproject/obs-studio/pull/14080",
+            "authorSearchUrl": null,
+            "status": "approved",
+            "commits": 0,
+            "language": "C",
+            "color": "#555555",
+            "description": {
+                "pl": "libobs: klawisze numeryczne bez NumLocka na Waylandzie.",
+                "en": "libobs: numpad keys without NumLock on Wayland."
+            },
+            "changes": [
+                {
+                    "label": "#14080",
+                    "title": {
+                        "pl": "libobs: numpad bez NumLocka na Waylandzie",
+                        "en": "libobs: numpad without NumLock on Wayland"
+                    },
+                    "url": "https://github.com/obsproject/obs-studio/pull/14080"
+                }
+            ]
+        }
+    ]
+}
