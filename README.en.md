@@ -307,6 +307,25 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 
 ## 🌍 Open source
 
+### Beyond GitHub
+
+<!-- stats:beyond -->
+> Code merged outside GitHub, through mailing lists and the projects' own review tools: **12** commits in **5** repositories. Below them, changes approved by the maintainers that are awaiting merge.
+
+| Project | Repository | Status | Changes |
+|---|---|---|---|
+| Proxmox VE | [pve-manager](https://git.proxmox.com/?p=pve-manager.git;a=search;h=HEAD;s=Michal+Fox;st=author)<br><sub>git.proxmox.com</sub> | merged, 6 commits | [e42092e](https://git.proxmox.com/?p=pve-manager.git;a=commit;h=e42092e) fix #6475: ui: upload: only show the file name of the selected file<br>[ac0c87d](https://git.proxmox.com/?p=pve-manager.git;a=commit;h=ac0c87d) fix #4986: jobs: do not get stuck if the task log is missing<br>[8efee57](https://git.proxmox.com/?p=pve-manager.git;a=commit;h=8efee57) fix #7108: ui: ipset: do not offer aliases that are already added<br>[+3 more](https://git.proxmox.com/?p=pve-manager.git;a=search;h=HEAD;s=Michal+Fox;st=author) |
+| Proxmox VE | [qemu-server](https://git.proxmox.com/?p=qemu-server.git;a=search;h=HEAD;s=Michal+Fox;st=author)<br><sub>git.proxmox.com</sub> | merged, 3 commits | [167f3d70a5](https://git.proxmox.com/?p=qemu-server.git;a=commit;h=167f3d70a5) fix #6907: memory: allow multi-digit host nodes with hugepages<br>[a4efa5f9ad](https://git.proxmox.com/?p=qemu-server.git;a=commit;h=a4efa5f9ad) partially fix #4012: migrate: mention snapshots referencing a local ISO image<br>[5abda85](https://git.proxmox.com/?p=qemu-server.git;a=commit;h=5abda85) test: migration: support volumes other than images |
+| Proxmox VE | [pve-storage](https://git.proxmox.com/?p=pve-storage.git;a=search;h=HEAD;s=Michal+Fox;st=author)<br><sub>git.proxmox.com</sub> | merged, 1 commit | [c10faa6972](https://git.proxmox.com/?p=pve-storage.git;a=commit;h=c10faa6972) fix #6969: plugin: keep content directory when freeing its last file |
+| Proxmox VE | [proxmox-widget-toolkit](https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=search;h=HEAD;s=Michal+Fox;st=author)<br><sub>git.proxmox.com</sub> | merged, 1 commit | [b92a9ad19f](https://git.proxmox.com/?p=proxmox-widget-toolkit.git;a=commit;h=b92a9ad19f) fix #6943: ui: network selector: show comments of IPv6 entries |
+| Mozilla Firefox | [mozilla-central](https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8)<br><sub>hg.mozilla.org</sub> | merged, 1 commit | [Bug 1996443](https://bugzilla.mozilla.org/show_bug.cgi?id=1996443) Bugzilla report<br>[D332854](https://phabricator.services.mozilla.com/D332854) Phabricator revision<br>[9c1b9b8ff0a8](https://hg.mozilla.org/mozilla-central/rev/9c1b9b8ff0a8) mozilla-central commit<br>[16fd06a0033d](https://github.com/mozilla-firefox/firefox/commit/16fd06a0033d) GitHub mirror |
+| Blender | [blender/blender](https://projects.blender.org/blender/blender)<br><sub>projects.blender.org</sub> | approved, awaiting merge | [#165627](https://projects.blender.org/blender/blender/pulls/165627) Fix #92527: Local View unhide<br>[#165628](https://projects.blender.org/blender/blender/pulls/165628) Fix #96432: D key in text editing |
+| Godot | [godotengine/godot](https://github.com/godotengine/godot/pull/124841)<br><sub>GitHub</sub> | approved, awaiting merge | [#124841](https://github.com/godotengine/godot/pull/124841) Return X11 focus to parent popup |
+| OBS Studio | [obsproject/obs-studio](https://github.com/obsproject/obs-studio/pull/14080)<br><sub>GitHub</sub> | approved, awaiting merge | [#14080](https://github.com/obsproject/obs-studio/pull/14080) libobs: numpad without NumLock on Wayland |
+<!-- /stats:beyond -->
+
+### On GitHub
+
 <!-- stats:opensource -->
 Code that made it into projects we use every day. **154** merged pull requests in **77** repositories with **1,050,000+** stars combined.
 
