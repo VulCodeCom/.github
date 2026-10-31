@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **82 repozytoriów open source**, które łącznie mają **1 300 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **83 repozytoriów open source**, które łącznie mają **1 310 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -111,20 +111,20 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>6 656 638</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 496</h3>commitów</td>
+    <td align="center" width="25%"><h3>24 497</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 300 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>82</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 310 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>83</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 682</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 683</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 7 867 500 linii dodanych
-- 1 333 341 linii usuniętych
++ 7 867 526 linii dodanych
+- 1 333 367 linii usuniętych
 ! 6 534 159 linii netto
 ```
 <!-- /stats:summary -->
@@ -320,14 +320,14 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 300 000+ ⭐ w 82 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 310 000+ ⭐ w 83 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,1 tys. | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,3 tys. | C++ | <code>+3</code> <code>-0</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,2 tys. | JavaScript | <code>+43</code> <code>-7</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,4 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,4 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,5 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,4 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,6 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
@@ -350,6 +350,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | ⭐ 14,3 tys. | C# | <code>+19</code> <code>-1</code> |
 | [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | ⭐ 13,6 tys. | Go | <code>+381</code> <code>-297</code> |
 | [filp/whoops](https://github.com/filp/whoops) | ⭐ 13,2 tys. | PHP | <code>+115</code> <code>-3</code> |
+| [PaperMC/Paper](https://github.com/PaperMC/Paper) | ⭐ 12,8 tys. | Java | <code>+51</code> <code>-4</code> |
 | [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+518</code> <code>-91</code> |
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9,9 tys. | PHP | <code>+293</code> <code>-11</code> |
