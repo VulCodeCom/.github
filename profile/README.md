@@ -111,21 +111,21 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>6 970 040</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 704</h3>commitów</td>
+    <td align="center" width="25%"><h3>24 705</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1 320 000+</h3>gwiazdek projektów OSS</td>
     <td align="center" width="25%"><h3>84</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 685</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 686</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 197 086 linii dodanych
-- 1 351 746 linii usuniętych
-! 6 845 340 linii netto
++ 8 197 146 linii dodanych
+- 1 351 804 linii usuniętych
+! 6 845 342 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -329,11 +329,11 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,6 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,5 tys. | Rust | <code>+124</code> <code>-7</code> |
-| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,6 tys. | TypeScript | <code>+52</code> <code>-2</code> |
+| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,7 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,5 tys. | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | JavaScript | <code>+37</code> <code>-1</code> |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,4 tys. | C++ | <code>+7</code> <code>-5</code> |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,5 tys. | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,9 tys. | C# | <code>+4724</code> <code>-29</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24,3 tys. | Go | <code>+52</code> <code>-12</code> |
@@ -362,7 +362,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+94</code> <code>-4</code> |
 | [maildev/maildev](https://github.com/maildev/maildev) | ⭐ 6,2 tys. | TypeScript | <code>+69</code> <code>-13</code> |
 | [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | ⭐ 5,6 tys. | JavaScript | <code>+9</code> <code>-13</code> |
-| [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,5 tys. | Rust | <code>+93</code> <code>-9</code> |
+| [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,5 tys. | Rust | <code>+232</code> <code>-14</code> |
 | [xoofx/markdig](https://github.com/xoofx/markdig) | ⭐ 5,4 tys. | C# | <code>+357</code> <code>-48</code> |
 | [dromara/carbon](https://github.com/dromara/carbon) | ⭐ 5,2 tys. | Go | <code>+41</code> <code>-4</code> |
 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | ⭐ 5,1 tys. | Go | <code>+90</code> <code>-3</code> |
@@ -395,7 +395,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1,5 tys. | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1,4 tys. | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1,4 tys. | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 933 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 932 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
