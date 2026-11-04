@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **6 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **84 repozytoriów open source**, które łącznie mają **1 320 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **85 repozytoriów open source**, które łącznie mają **1 340 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -110,22 +110,22 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:summary -->
 <table>
   <tr>
-    <td align="center" colspan="2" width="50%"><h3>6 970 040</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 705</h3>commitów</td>
+    <td align="center" colspan="2" width="50%"><h3>7 322 003</h3>linii kodu</td>
+    <td align="center" width="25%"><h3>24 901</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 320 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>84</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 340 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>85</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 686</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 687</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 197 146 linii dodanych
-- 1 351 804 linii usuniętych
-! 6 845 342 linii netto
++ 8 567 863 linii dodanych
+- 1 388 719 linii usuniętych
+! 7 179 144 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -138,30 +138,30 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <!-- stats:languages -->
 <table align="center">
   <tr><th></th><th align="left">Język</th><th align="right">Linie kodu</th><th align="right">Commity</th><th align="right">Udział</th></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">3 489 194</td><td align="right">7 684</td><td align="right">50,1% <sub>███████████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">1 492 811</td><td align="right">2 873</td><td align="right">21,4% <sub>█████</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">421 062</td><td align="right">1 010</td><td align="right">6,0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">207 212</td><td align="right">552</td><td align="right">3,0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">175 421</td><td align="right">707</td><td align="right">2,5% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">146 419</td><td align="right">602</td><td align="right">2,1% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">134 169</td><td align="right">111</td><td align="right">1,9% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">133 586</td><td align="right">444</td><td align="right">1,9% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">119 541</td><td align="right">437</td><td align="right">1,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">115 858</td><td align="right">382</td><td align="right">1,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80 844</td><td align="right">165</td><td align="right">1,2% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">68 269</td><td align="right">577</td><td align="right">1,0% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">60 532</td><td align="right">84</td><td align="right">0,9% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">53 415</td><td align="right">735</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">52 836</td><td align="right">73</td><td align="right">0,8% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=c" width="18" alt="C"></td><td><b>C</b></td><td align="right">52 355</td><td align="right">110</td><td align="right">0,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"></td><td><b>TypeScript</b></td><td align="right">3 647 627</td><td align="right">7 775</td><td align="right">49,8% <sub>███████████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=rust" width="18" alt="Rust"></td><td><b>Rust</b></td><td align="right">1 643 520</td><td align="right">2 925</td><td align="right">22,4% <sub>█████</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=go" width="18" alt="Go"></td><td><b>Go</b></td><td align="right">442 530</td><td align="right">1 029</td><td align="right">6,0% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=kotlin" width="18" alt="Kotlin"></td><td><b>Kotlin</b></td><td align="right">207 212</td><td align="right">552</td><td align="right">2,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cs" width="18" alt="C#"></td><td><b>C#</b></td><td align="right">175 421</td><td align="right">707</td><td align="right">2,4% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"></td><td><b>JavaScript</b></td><td align="right">146 684</td><td align="right">610</td><td align="right">2,0% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=elixir" width="18" alt="Elixir"></td><td><b>Elixir</b></td><td align="right">138 941</td><td align="right">456</td><td align="right">1,9% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=php" width="18" alt="PHP"></td><td><b>PHP</b></td><td align="right">134 169</td><td align="right">111</td><td align="right">1,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=swift" width="18" alt="Swift"></td><td><b>Swift</b></td><td align="right">119 541</td><td align="right">437</td><td align="right">1,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=py" width="18" alt="Python"></td><td><b>Python</b></td><td align="right">119 159</td><td align="right">387</td><td align="right">1,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML"></td><td><b>HTML</b></td><td align="right">80 863</td><td align="right">166</td><td align="right">1,1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS"></td><td><b>CSS</b></td><td align="right">76 411</td><td align="right">582</td><td align="right">1,0% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=cpp" width="18" alt="C++"></td><td><b>C++</b></td><td align="right">60 532</td><td align="right">84</td><td align="right">0,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=mysql" width="18" alt="SQL"></td><td><b>SQL</b></td><td align="right">56 846</td><td align="right">787</td><td align="right">0,8% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=ruby" width="18" alt="Ruby"></td><td><b>Ruby</b></td><td align="right">52 836</td><td align="right">73</td><td align="right">0,7% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=c" width="18" alt="C"></td><td><b>C</b></td><td align="right">52 355</td><td align="right">110</td><td align="right">0,7% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=lua" width="18" alt="Lua"></td><td><b>Lua</b></td><td align="right">47 845</td><td align="right">64</td><td align="right">0,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=zig" width="18" alt="Zig"></td><td><b>Zig</b></td><td align="right">46 238</td><td align="right">73</td><td align="right">0,7% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">34 244</td><td align="right">336</td><td align="right">0,5% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=zig" width="18" alt="Zig"></td><td><b>Zig</b></td><td align="right">46 238</td><td align="right">73</td><td align="right">0,6% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=bash" width="18" alt="Shell"></td><td><b>Shell</b></td><td align="right">35 084</td><td align="right">353</td><td align="right">0,5% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=java" width="18" alt="Java"></td><td><b>Java</b></td><td align="right">14 401</td><td align="right">50</td><td align="right">0,2% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=dart" width="18" alt="Dart"></td><td><b>Dart</b></td><td align="right">6 146</td><td align="right">28</td><td align="right">0,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=scala" width="18" alt="Scala"></td><td><b>Scala</b></td><td align="right">5 439</td><td align="right">25</td><td align="right">0,1% <sub>█</sub></td></tr>
     <tr><td><img src="https://skillicons.dev/icons?i=solidity" width="18" alt="Solidity"></td><td><b>Solidity</b></td><td align="right">4 688</td><td align="right">33</td><td align="right">0,1% <sub>█</sub></td></tr>
-    <tr><td><img src="https://skillicons.dev/icons?i=haskell" width="18" alt="Haskell"></td><td><b>Haskell</b></td><td align="right">3 641</td><td align="right">25</td><td align="right">0,1% <sub>█</sub></td></tr>
+    <tr><td><img src="https://skillicons.dev/icons?i=haskell" width="18" alt="Haskell"></td><td><b>Haskell</b></td><td align="right">3 641</td><td align="right">25</td><td align="right">0,0% <sub>█</sub></td></tr>
     <tr><td><img src="https://docs.vulcode.com/uploads/images/gallery/2026-09/fsharp.png" width="18" alt="F#"></td><td><b>F#</b></td><td align="right">3 297</td><td align="right">19</td><td align="right">0,0% <sub>█</sub></td></tr>
     <tr><td><img src="https://docs.vulcode.com/uploads/images/gallery/2026-09/assembly.png" width="18" alt="Assembly"></td><td><b>Assembly</b></td><td align="right">577</td><td align="right">8</td><td align="right">0,0% <sub>█</sub></td></tr>
 </table>
@@ -320,14 +320,14 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 320 000+ ⭐ w 84 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 340 000+ ⭐ w 85 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
 | [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,2 tys. | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,5 tys. | C++ | <code>+3</code> <code>-0</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,6 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,6 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,7 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,5 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,7 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
@@ -335,14 +335,15 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | JavaScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,5 tys. | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 26,9 tys. | C# | <code>+4724</code> <code>-29</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27 tys. | C# | <code>+4724</code> <code>-29</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24,3 tys. | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22,3 tys. | PHP | <code>+135</code> <code>-4</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22,2 tys. | JavaScript | <code>+314</code> <code>-63</code> |
-| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,1 tys. | Go | <code>+43</code> <code>-17</code> |
+| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,2 tys. | Go | <code>+43</code> <code>-17</code> |
 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22 tys. | Rust | <code>+134</code> <code>-1</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21,4 tys. | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21,4 tys. | Rust | <code>+337</code> <code>-49</code> |
+| [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19 tys. | C++ | <code>+7</code> <code>-2</code> |
 | [lichess-org/lila](https://github.com/lichess-org/lila) | ⭐ 18,9 tys. | Scala | <code>+35</code> <code>-7</code> |
 | [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17,7 tys. | C# | <code>+43</code> <code>-5</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16,6 tys. | PHP | <code>+87</code> <code>-0</code> |
@@ -399,7 +400,7 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 386 | Assembly | <code>+146</code> <code>-12</code> |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 385 | Assembly | <code>+146</code> <code>-12</code> |
 | [brick/date-time](https://github.com/brick/date-time) | ⭐ 361 | PHP | <code>+67</code> <code>-36</code> |
 | [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 340 | Python | <code>+124</code> <code>-1</code> |
 | [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
