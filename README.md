@@ -111,21 +111,21 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7 322 003</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>24 901</h3>commitów</td>
+    <td align="center" width="25%"><h3>24 902</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1 340 000+</h3>gwiazdek projektów OSS</td>
     <td align="center" width="25%"><h3>85</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 687</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 688</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 567 863 linii dodanych
-- 1 388 719 linii usuniętych
-! 7 179 144 linii netto
++ 8 567 937 linii dodanych
+- 1 388 791 linii usuniętych
+! 7 179 146 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -324,11 +324,11 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,2 tys. | JavaScript | <code>+43</code> <code>-7</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,3 tys. | JavaScript | <code>+43</code> <code>-7</code> |
 | [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,6 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,7 tys. | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,5 tys. | Rust | <code>+124</code> <code>-7</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92,9 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,6 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,7 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,5 tys. | Ruby | <code>+34</code> <code>-2</code> |
@@ -390,13 +390,13 @@ Docker <sub>62</sub> · React <sub>31</sub> · Express <sub>27</sub> · Vite <su
 | [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) | ⭐ 1,9 tys. | PHP | <code>+20</code> <code>-9</code> |
 | [spatie/period](https://github.com/spatie/period) | ⭐ 1,7 tys. | PHP | <code>+69</code> <code>-0</code> |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | ⭐ 1,7 tys. | Go | <code>+99</code> <code>-3</code> |
-| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1,6 tys. | Python | <code>+66</code> <code>-5</code> |
 | [gookit/color](https://github.com/gookit/color) | ⭐ 1,6 tys. | Go | <code>+12</code> <code>-1</code> |
+| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1,6 tys. | Python | <code>+66</code> <code>-5</code> |
 | [linuxmint/nemo](https://github.com/linuxmint/nemo) | ⭐ 1,6 tys. | C | <code>+4</code> <code>-6</code> |
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1,5 tys. | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1,4 tys. | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1,4 tys. | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 932 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 933 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |

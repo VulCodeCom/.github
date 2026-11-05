@@ -111,21 +111,21 @@ A transparent, 7-step process from first call to production support:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7,322,003</h3>lines of code</td>
-    <td align="center" width="25%"><h3>24,901</h3>commits</td>
+    <td align="center" width="25%"><h3>24,902</h3>commits</td>
     <td align="center" width="25%"><h3>150+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1,340,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>85</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,687</h3>working days</td>
+    <td align="center" width="25%"><h3>1,688</h3>working days</td>
   </tr>
 </table>
 
 ```diff
-+ 8,567,863 lines added
-- 1,388,719 lines removed
-! 7,179,144 net lines
++ 8,567,937 lines added
+- 1,388,791 lines removed
+! 7,179,146 net lines
 ```
 <!-- /stats:summary -->
 
@@ -330,11 +330,11 @@ Code that made it into projects we use every day. **172** merged pull requests i
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.2k | JavaScript | <code>+43</code> <code>-7</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.3k | JavaScript | <code>+43</code> <code>-7</code> |
 | [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119.6k | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99.3k | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92.7k | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.5k | Rust | <code>+124</code> <code>-7</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 92.9k | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.6k | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.7k | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66.1k | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50.5k | Ruby | <code>+34</code> <code>-2</code> |
@@ -396,13 +396,13 @@ Code that made it into projects we use every day. **172** merged pull requests i
 | [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) | ⭐ 1.9k | PHP | <code>+20</code> <code>-9</code> |
 | [spatie/period](https://github.com/spatie/period) | ⭐ 1.7k | PHP | <code>+69</code> <code>-0</code> |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | ⭐ 1.7k | Go | <code>+99</code> <code>-3</code> |
-| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1.6k | Python | <code>+66</code> <code>-5</code> |
 | [gookit/color](https://github.com/gookit/color) | ⭐ 1.6k | Go | <code>+12</code> <code>-1</code> |
+| [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) | ⭐ 1.6k | Python | <code>+66</code> <code>-5</code> |
 | [linuxmint/nemo](https://github.com/linuxmint/nemo) | ⭐ 1.6k | C | <code>+4</code> <code>-6</code> |
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1.5k | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1.4k | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1.4k | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 932 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 933 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
