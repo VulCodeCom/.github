@@ -111,20 +111,20 @@ A transparent, 7-step process from first call to production support:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7,601,603</h3>lines of code</td>
-    <td align="center" width="25%"><h3>25,162</h3>commits</td>
+    <td align="center" width="25%"><h3>25,163</h3>commits</td>
     <td align="center" width="25%"><h3>150+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1,340,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>85</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,690</h3>working days</td>
+    <td align="center" width="25%"><h3>1,691</h3>working days</td>
   </tr>
 </table>
 
 ```diff
-+ 8,909,685 lines added
-- 1,414,685 lines removed
++ 8,909,719 lines added
+- 1,414,719 lines removed
 ! 7,495,000 net lines
 ```
 <!-- /stats:summary -->
@@ -326,22 +326,22 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 ### On GitHub
 
 <!-- stats:opensource -->
-Code that made it into projects we use every day. **172** merged pull requests in **85** repositories with **1,340,000+** stars combined.
+Code that made it into projects we use every day. **173** merged pull requests in **85** repositories with **1,340,000+** stars combined.
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
 | [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.4k | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119.7k | C++ | <code>+3</code> <code>-0</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119.8k | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99.3k | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.2k | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.7k | Rust | <code>+124</code> <code>-7</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.5k | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.8k | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.8k | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66.1k | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50.5k | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37.3k | JavaScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33.5k | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29.6k | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27k | C# | <code>+4724</code> <code>-29</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27k | C# | <code>+4777</code> <code>-35</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24.3k | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22.3k | PHP | <code>+135</code> <code>-4</code> |
 | [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22.2k | Go | <code>+43</code> <code>-17</code> |
@@ -351,7 +351,7 @@ Code that made it into projects we use every day. **172** merged pull requests i
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21.4k | Rust | <code>+337</code> <code>-49</code> |
 | [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19k | C++ | <code>+7</code> <code>-2</code> |
 | [lichess-org/lila](https://github.com/lichess-org/lila) | ⭐ 19k | Scala | <code>+35</code> <code>-7</code> |
-| [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17.7k | C# | <code>+43</code> <code>-5</code> |
+| [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17.8k | C# | <code>+43</code> <code>-5</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16.6k | PHP | <code>+87</code> <code>-0</code> |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | ⭐ 15k | Go | <code>+183</code> <code>-18</code> |
 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | ⭐ 14.3k | C# | <code>+19</code> <code>-1</code> |
@@ -402,7 +402,7 @@ Code that made it into projects we use every day. **172** merged pull requests i
 | [olebedev/when](https://github.com/olebedev/when) | ⭐ 1.5k | Go | <code>+45</code> <code>-1</code> |
 | [dgilland/pydash](https://github.com/dgilland/pydash) | ⭐ 1.4k | Python | <code>+18</code> <code>-5</code> |
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1.4k | PHP | <code>+17</code> <code>-2</code> |
-| [go-playground/form](https://github.com/go-playground/form) | ⭐ 933 | Go | <code>+35</code> <code>-0</code> |
+| [go-playground/form](https://github.com/go-playground/form) | ⭐ 934 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
