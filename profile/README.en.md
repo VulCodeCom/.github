@@ -111,20 +111,20 @@ A transparent, 7-step process from first call to production support:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7,601,603</h3>lines of code</td>
-    <td align="center" width="25%"><h3>25,163</h3>commits</td>
+    <td align="center" width="25%"><h3>25,164</h3>commits</td>
     <td align="center" width="25%"><h3>150+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1,340,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>85</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,691</h3>working days</td>
+    <td align="center" width="25%"><h3>1,692</h3>working days</td>
   </tr>
 </table>
 
 ```diff
-+ 8,909,719 lines added
-- 1,414,719 lines removed
++ 8,909,739 lines added
+- 1,414,739 lines removed
 ! 7,495,000 net lines
 ```
 <!-- /stats:summary -->
@@ -330,15 +330,15 @@ Code that made it into projects we use every day. **173** merged pull requests i
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.4k | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119.8k | C++ | <code>+3</code> <code>-0</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.5k | JavaScript | <code>+43</code> <code>-7</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119.9k | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99.3k | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.5k | Rust | <code>+123</code> <code>-10</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.6k | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.8k | Rust | <code>+124</code> <code>-7</code> |
-| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.8k | TypeScript | <code>+52</code> <code>-2</code> |
+| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.8k | Go | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66.1k | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50.5k | Ruby | <code>+34</code> <code>-2</code> |
-| [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37.3k | JavaScript | <code>+37</code> <code>-1</code> |
+| [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37.3k | TypeScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33.5k | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29.6k | PHP | <code>+10</code> <code>-4</code> |
 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27k | C# | <code>+4777</code> <code>-35</code> |
