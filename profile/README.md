@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **85 repozytoriów open source**, które łącznie mają **1 340 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **86 repozytoriów open source**, które łącznie mają **1 350 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -111,20 +111,20 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7 601 603</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>25 164</h3>commitów</td>
+    <td align="center" width="25%"><h3>25 165</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 340 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>85</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 350 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>86</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 692</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 693</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 909 739 linii dodanych
-- 1 414 739 linii usuniętych
++ 8 909 757 linii dodanych
+- 1 414 757 linii usuniętych
 ! 7 495 000 linii netto
 ```
 <!-- /stats:summary -->
@@ -320,17 +320,17 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 340 000+ ⭐ w 85 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 350 000+ ⭐ w 86 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
 | [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,5 tys. | JavaScript | <code>+43</code> <code>-7</code> |
 | [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,9 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94,6 tys. | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,8 tys. | Rust | <code>+124</code> <code>-7</code> |
-| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,8 tys. | Go | <code>+52</code> <code>-2</code> |
-| [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,1 tys. | Rust | <code>+127</code> <code>-30</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94,7 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,9 tys. | Rust | <code>+124</code> <code>-7</code> |
+| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,8 tys. | TypeScript | <code>+52</code> <code>-2</code> |
+| [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,2 tys. | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,5 tys. | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | TypeScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,5 tys. | C++ | <code>+7</code> <code>-5</code> |
@@ -354,15 +354,16 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 | [PaperMC/Paper](https://github.com/PaperMC/Paper) | ⭐ 12,8 tys. | Java | <code>+51</code> <code>-4</code> |
 | [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+518</code> <code>-91</code> |
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
-| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 9,9 tys. | PHP | <code>+293</code> <code>-11</code> |
+| [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 10 tys. | PHP | <code>+293</code> <code>-11</code> |
 | [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) | ⭐ 9,8 tys. | C# | <code>+14</code> <code>-1</code> |
+| [fission/fission](https://github.com/fission/fission) | ⭐ 8,9 tys. | Go | <code>+569</code> <code>-15</code> |
 | [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8,1 tys. | C# | <code>+12</code> <code>-0</code> |
 | [concourse/concourse](https://github.com/concourse/concourse) | ⭐ 7,9 tys. | Go | <code>+153</code> <code>-23</code> |
 | [predis/predis](https://github.com/predis/predis) | ⭐ 7,8 tys. | PHP | <code>+352</code> <code>-27</code> |
 | [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) | ⭐ 7,8 tys. | TypeScript | <code>+65</code> <code>-2</code> |
 | [NLog/NLog](https://github.com/NLog/NLog) | ⭐ 6,5 tys. | C# | <code>+94</code> <code>-4</code> |
 | [maildev/maildev](https://github.com/maildev/maildev) | ⭐ 6,2 tys. | TypeScript | <code>+69</code> <code>-13</code> |
-| [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | ⭐ 5,6 tys. | JavaScript | <code>+9</code> <code>-13</code> |
+| [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | ⭐ 5,7 tys. | JavaScript | <code>+9</code> <code>-13</code> |
 | [Pagefind/pagefind](https://github.com/Pagefind/pagefind) | ⭐ 5,6 tys. | Rust | <code>+232</code> <code>-14</code> |
 | [xoofx/markdig](https://github.com/xoofx/markdig) | ⭐ 5,4 tys. | C# | <code>+357</code> <code>-48</code> |
 | [dromara/carbon](https://github.com/dromara/carbon) | ⭐ 5,2 tys. | Go | <code>+41</code> <code>-4</code> |
@@ -399,10 +400,10 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 | [go-playground/form](https://github.com/go-playground/form) | ⭐ 934 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
 | [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
-| [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 503 | Rust | <code>+24</code> <code>-2</code> |
+| [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 504 | Rust | <code>+24</code> <code>-2</code> |
 | [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 385 | Assembly | <code>+146</code> <code>-12</code> |
-| [brick/date-time](https://github.com/brick/date-time) | ⭐ 361 | PHP | <code>+67</code> <code>-36</code> |
-| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 340 | Python | <code>+124</code> <code>-1</code> |
+| [brick/date-time](https://github.com/brick/date-time) | ⭐ 362 | PHP | <code>+67</code> <code>-36</code> |
+| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 341 | Python | <code>+124</code> <code>-1</code> |
 | [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
 | [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 296 | Python | <code>+5</code> <code>-1</code> |
 | [QEDK/configparser-rs](https://github.com/QEDK/configparser-rs) | ⭐ 88 | Rust | <code>+22</code> <code>-1</code> |
