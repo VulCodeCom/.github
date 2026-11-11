@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **86 repozytoriów open source**, które łącznie mają **1 350 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **87 repozytoriów open source**, które łącznie mają **1 360 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -111,21 +111,21 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7 601 603</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>25 165</h3>commitów</td>
+    <td align="center" width="25%"><h3>25 166</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 350 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>86</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 360 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>87</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 693</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 694</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 909 757 linii dodanych
-- 1 414 757 linii usuniętych
-! 7 495 000 linii netto
++ 8 909 793 linii dodanych
+- 1 414 791 linii usuniętych
+! 7 495 002 linii netto
 ```
 <!-- /stats:summary -->
 
@@ -320,18 +320,18 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 350 000+ ⭐ w 86 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 360 000+ ⭐ w 87 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
 | [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,5 tys. | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 119,9 tys. | C++ | <code>+3</code> <code>-0</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 120 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94,7 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91,9 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,8 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,2 tys. | Rust | <code>+127</code> <code>-30</code> |
-| [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,5 tys. | Ruby | <code>+34</code> <code>-2</code> |
+| [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,6 tys. | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | TypeScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,5 tys. | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
@@ -356,6 +356,7 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 10 tys. | PHP | <code>+293</code> <code>-11</code> |
 | [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) | ⭐ 9,8 tys. | C# | <code>+14</code> <code>-1</code> |
+| [pterodactyl/panel](https://github.com/pterodactyl/panel) | ⭐ 9,5 tys. | PHP | <code>+145</code> <code>-3</code> |
 | [fission/fission](https://github.com/fission/fission) | ⭐ 8,9 tys. | Go | <code>+569</code> <code>-15</code> |
 | [serilog/serilog](https://github.com/serilog/serilog) | ⭐ 8,1 tys. | C# | <code>+12</code> <code>-0</code> |
 | [concourse/concourse](https://github.com/concourse/concourse) | ⭐ 7,9 tys. | Go | <code>+153</code> <code>-23</code> |
