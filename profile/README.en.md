@@ -111,21 +111,21 @@ A transparent, 7-step process from first call to production support:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7,601,603</h3>lines of code</td>
-    <td align="center" width="25%"><h3>25,166</h3>commits</td>
+    <td align="center" width="25%"><h3>25,167</h3>commits</td>
     <td align="center" width="25%"><h3>150+</h3>projects</td>
   </tr>
   <tr>
     <td align="center" width="25%"><h3>1,360,000+</h3>OSS project stars</td>
     <td align="center" width="25%"><h3>87</h3>open source projects</td>
     <td align="center" width="25%"><h3>26</h3>languages</td>
-    <td align="center" width="25%"><h3>1,694</h3>working days</td>
+    <td align="center" width="25%"><h3>1,695</h3>working days</td>
   </tr>
 </table>
 
 ```diff
-+ 8,909,793 lines added
-- 1,414,791 lines removed
-! 7,495,002 net lines
++ 8,909,817 lines added
+- 1,414,813 lines removed
+! 7,495,004 net lines
 ```
 <!-- /stats:summary -->
 
@@ -330,23 +330,23 @@ Code that made it into projects we use every day. **175** merged pull requests i
 
 | Project | Stars | Language | Changes |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.5k | JavaScript | <code>+43</code> <code>-7</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123.6k | JavaScript | <code>+43</code> <code>-7</code> |
 | [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 120k | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99.3k | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.7k | Rust | <code>+123</code> <code>-10</code> |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 91.9k | Rust | <code>+124</code> <code>-7</code> |
-| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.8k | TypeScript | <code>+52</code> <code>-2</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94.8k | Rust | <code>+123</code> <code>-10</code> |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 92k | Rust | <code>+124</code> <code>-7</code> |
+| [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77.9k | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66.2k | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50.6k | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37.3k | TypeScript | <code>+37</code> <code>-1</code> |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33.5k | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29.6k | PHP | <code>+10</code> <code>-4</code> |
-| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27k | C# | <code>+4777</code> <code>-35</code> |
+| [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27.1k | C# | <code>+4777</code> <code>-35</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24.3k | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22.3k | PHP | <code>+135</code> <code>-4</code> |
 | [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22.2k | Go | <code>+43</code> <code>-17</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22.2k | JavaScript | <code>+314</code> <code>-63</code> |
-| [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22k | Rust | <code>+134</code> <code>-1</code> |
+| [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22.1k | Rust | <code>+134</code> <code>-1</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21.4k | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21.4k | Rust | <code>+337</code> <code>-49</code> |
 | [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19k | C++ | <code>+7</code> <code>-2</code> |
