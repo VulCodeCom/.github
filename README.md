@@ -17,7 +17,7 @@
 
 <br>
 
-VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **87 repozytoriów open source**, które łącznie mają **1 360 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
+VulCode to polski software house z wieloletnim doświadczeniem. Od 2020 roku dostarczamy oprogramowanie wysokiej jakości i napisaliśmy już ponad **7 mln linijek kodu** w **150+ projektach**. Dołożyliśmy też swoją cegiełkę do **88 repozytoriów open source**, które łącznie mają **1 370 000+ gwiazdek** na GitHubie. Specjalizujemy się w stronach internetowych, panelach i dashboardach oraz aplikacjach, a także w budowie skalowalnych platform. Aktywnie kontrybuujemy do dziesiątek projektów open source.
 
 ## 🧩 Czym się zajmujemy?
 
@@ -111,20 +111,20 @@ Przejrzysty, 7-etapowy proces realizacji projektu:
 <table>
   <tr>
     <td align="center" colspan="2" width="50%"><h3>7 601 603</h3>linii kodu</td>
-    <td align="center" width="25%"><h3>25 167</h3>commitów</td>
+    <td align="center" width="25%"><h3>25 168</h3>commitów</td>
     <td align="center" width="25%"><h3>150+</h3>projektów</td>
   </tr>
   <tr>
-    <td align="center" width="25%"><h3>1 360 000+</h3>gwiazdek projektów OSS</td>
-    <td align="center" width="25%"><h3>87</h3>projektów open source</td>
+    <td align="center" width="25%"><h3>1 370 000+</h3>gwiazdek projektów OSS</td>
+    <td align="center" width="25%"><h3>88</h3>projektów open source</td>
     <td align="center" width="25%"><h3>26</h3>języków</td>
-    <td align="center" width="25%"><h3>1 695</h3>dni pracy</td>
+    <td align="center" width="25%"><h3>1 696</h3>dni pracy</td>
   </tr>
 </table>
 
 ```diff
-+ 8 909 817 linii dodanych
-- 1 414 813 linii usuniętych
++ 8 909 839 linii dodanych
+- 1 414 835 linii usuniętych
 ! 7 495 004 linii netto
 ```
 <!-- /stats:summary -->
@@ -320,30 +320,30 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 ### Na GitHubie
 
 <!-- stats:opensource -->
-> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 360 000+ ⭐ w 87 repozytoriach.
+> Projekty, do których regularnie kontrybuujemy (tylko te z zaakceptowanymi zmianami). Projekty posortowane według liczby gwiazdek. Łącznie 1 370 000+ ⭐ w 88 repozytoriach.
 
 | Projekt | Gwiazdki | Język | Zmiany |
 |---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,6 tys. | JavaScript | <code>+43</code> <code>-7</code> |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 120 tys. | C++ | <code>+3</code> <code>-0</code> |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 123,7 tys. | JavaScript | <code>+43</code> <code>-7</code> |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 120,1 tys. | C++ | <code>+3</code> <code>-0</code> |
 | [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99,3 tys. | JavaScript | <code>+23</code> <code>-28</code> |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 94,8 tys. | Rust | <code>+123</code> <code>-10</code> |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | ⭐ 95 tys. | Rust | <code>+123</code> <code>-10</code> |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | ⭐ 92 tys. | Rust | <code>+124</code> <code>-7</code> |
 | [grafana/grafana](https://github.com/grafana/grafana) | ⭐ 77,9 tys. | TypeScript | <code>+52</code> <code>-2</code> |
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ⭐ 66,2 tys. | Rust | <code>+127</code> <code>-30</code> |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ⭐ 50,6 tys. | Ruby | <code>+34</code> <code>-2</code> |
 | [markedjs/marked](https://github.com/markedjs/marked) | ⭐ 37,3 tys. | TypeScript | <code>+37</code> <code>-1</code> |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,5 tys. | C++ | <code>+7</code> <code>-5</code> |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | ⭐ 33,6 tys. | C++ | <code>+7</code> <code>-5</code> |
 | [composer/composer](https://github.com/composer/composer) | ⭐ 29,6 tys. | PHP | <code>+10</code> <code>-4</code> |
 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | ⭐ 27,1 tys. | C# | <code>+4777</code> <code>-35</code> |
 | [urfave/cli](https://github.com/urfave/cli) | ⭐ 24,3 tys. | Go | <code>+52</code> <code>-12</code> |
 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | ⭐ 22,3 tys. | PHP | <code>+135</code> <code>-4</code> |
-| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,2 tys. | Go | <code>+43</code> <code>-17</code> |
+| [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 22,3 tys. | Go | <code>+43</code> <code>-17</code> |
 | [postcss/autoprefixer](https://github.com/postcss/autoprefixer) | ⭐ 22,2 tys. | JavaScript | <code>+314</code> <code>-63</code> |
 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | ⭐ 22,1 tys. | Rust | <code>+134</code> <code>-1</code> |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | ⭐ 21,4 tys. | PHP | <code>+41</code> <code>-2</code> |
 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | ⭐ 21,4 tys. | Rust | <code>+337</code> <code>-49</code> |
-| [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19 tys. | C++ | <code>+7</code> <code>-2</code> |
+| [audacity/audacity](https://github.com/audacity/audacity) | ⭐ 19,1 tys. | C++ | <code>+7</code> <code>-2</code> |
 | [lichess-org/lila](https://github.com/lichess-org/lila) | ⭐ 19 tys. | Scala | <code>+35</code> <code>-7</code> |
 | [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | ⭐ 17,8 tys. | C# | <code>+43</code> <code>-5</code> |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | ⭐ 16,6 tys. | PHP | <code>+87</code> <code>-0</code> |
@@ -352,6 +352,7 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 | [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | ⭐ 13,6 tys. | Go | <code>+381</code> <code>-297</code> |
 | [filp/whoops](https://github.com/filp/whoops) | ⭐ 13,2 tys. | PHP | <code>+115</code> <code>-3</code> |
 | [PaperMC/Paper](https://github.com/PaperMC/Paper) | ⭐ 12,8 tys. | Java | <code>+51</code> <code>-4</code> |
+| [ramsey/uuid](https://github.com/ramsey/uuid) | ⭐ 12,6 tys. | PHP | <code>+14</code> <code>-0</code> |
 | [spencermountain/compromise](https://github.com/spencermountain/compromise) | ⭐ 12,2 tys. | JavaScript | <code>+518</code> <code>-91</code> |
 | [doctrine/lexer](https://github.com/doctrine/lexer) | ⭐ 11,1 tys. | PHP | <code>+72</code> <code>-2</code> |
 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | ⭐ 10 tys. | PHP | <code>+293</code> <code>-11</code> |
@@ -400,12 +401,12 @@ Docker <sub>62</sub> · React <sub>32</sub> · Express <sub>27</sub> · Vite <su
 | [cakephp/chronos](https://github.com/cakephp/chronos) | ⭐ 1,4 tys. | PHP | <code>+17</code> <code>-2</code> |
 | [go-playground/form](https://github.com/go-playground/form) | ⭐ 934 | Go | <code>+35</code> <code>-0</code> |
 | [mkideal/cli](https://github.com/mkideal/cli) | ⭐ 723 | Go | <code>+22</code> <code>-1</code> |
-| [gookit/config](https://github.com/gookit/config) | ⭐ 585 | Go | <code>+29</code> <code>-8</code> |
+| [gookit/config](https://github.com/gookit/config) | ⭐ 584 | Go | <code>+29</code> <code>-8</code> |
 | [rust-syndication/rss](https://github.com/rust-syndication/rss) | ⭐ 504 | Rust | <code>+24</code> <code>-2</code> |
 | [kelindar/bitmap](https://github.com/kelindar/bitmap) | ⭐ 385 | Assembly | <code>+146</code> <code>-12</code> |
 | [brick/date-time](https://github.com/brick/date-time) | ⭐ 362 | PHP | <code>+67</code> <code>-36</code> |
-| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 341 | Python | <code>+124</code> <code>-1</code> |
-| [rodaine/table](https://github.com/rodaine/table) | ⭐ 324 | Go | <code>+32</code> <code>-2</code> |
+| [pydantic/pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types) | ⭐ 343 | Python | <code>+124</code> <code>-1</code> |
+| [rodaine/table](https://github.com/rodaine/table) | ⭐ 325 | Go | <code>+32</code> <code>-2</code> |
 | [wroberts/pytimeparse](https://github.com/wroberts/pytimeparse) | ⭐ 296 | Python | <code>+5</code> <code>-1</code> |
 | [QEDK/configparser-rs](https://github.com/QEDK/configparser-rs) | ⭐ 88 | Rust | <code>+22</code> <code>-1</code> |
 | [thephpleague/uri-src](https://github.com/thephpleague/uri-src) | ⭐ 51 | PHP | <code>+18</code> <code>-2</code> |
